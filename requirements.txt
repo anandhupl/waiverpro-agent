@@ -1,0 +1,4 @@
+playwright
+together
+supabase
+python-dotenv
