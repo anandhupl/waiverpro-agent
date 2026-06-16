@@ -1,0 +1,1811 @@
+{
+  "tag": "body",
+  "text": " ",
+  "children": [
+    {
+      "tag": "div",
+      "id": "root",
+      "children": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "aside",
+                      "children": [
+                        {
+                          "tag": "div",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "text": "WaiverPro",
+                                          "children": [
+                                            {
+                                              "text": "WaiverPro"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "Healthcare Waiver Management",
+                                          "children": [
+                                            {
+                                              "text": "Healthcare Waiver Management"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "id": "tour-new-application",
+                                      "text": "+ New Application",
+                                      "children": [
+                                        {
+                                          "text": "+ New Application"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "nav",
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "id": "tour-applications",
+                                  "href": "/dashboard/my-applications",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "My Applications",
+                                      "children": [
+                                        {
+                                          "text": "My Applications"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "id": "tour-facilities",
+                                  "href": "/dashboard/facilities",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "Facilities",
+                                      "children": [
+                                        {
+                                          "text": "Facilities"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "id": "tour-action-items",
+                                  "href": "/dashboard/action-items",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "Action Items",
+                                      "children": [
+                                        {
+                                          "text": "Action Items"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "href": "/dashboard/user-management",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "User Management",
+                                      "children": [
+                                        {
+                                          "text": "User Management"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "id": "tour-announcements",
+                                  "href": "/dashboard/announcements",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "Announcements",
+                                      "children": [
+                                        {
+                                          "text": "Announcements"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "id": "tour-settings",
+                                  "href": "/dashboard/settings",
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "Settings",
+                                      "children": [
+                                        {
+                                          "text": "Settings"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "Support",
+                                  "children": [
+                                    {
+                                      "text": "Support"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "id": "tour-support",
+                                  "children": [
+                                    {
+                                      "tag": "a",
+                                      "href": "/dashboard/faqs",
+                                      "children": [
+                                        {
+                                          "tag": "span",
+                                          "text": "FAQs",
+                                          "children": [
+                                            {
+                                              "text": "FAQs"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "a",
+                                      "href": "/dashboard/tickets",
+                                      "children": [
+                                        {
+                                          "tag": "span",
+                                          "text": "Tickets",
+                                          "children": [
+                                            {
+                                              "text": "Tickets"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "a",
+                                      "href": "/dashboard/contact",
+                                      "children": [
+                                        {
+                                          "tag": "span",
+                                          "text": "Contact",
+                                          "children": [
+                                            {
+                                              "text": "Contact"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "button",
+                                      "id": "tour-take-a-tour",
+                                      "text": "Take a Tour",
+                                      "children": [
+                                        {
+                                          "text": "Take a Tour"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "main",
+                          "children": [
+                            {
+                              "tag": "div",
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "children": [
+                                                {
+                                                  "tag": "h1",
+                                                  "text": "My Applications",
+                                                  "children": [
+                                                    {
+                                                      "text": "My Applications"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "children": [
+                                                    {
+                                                      "tag": "input",
+                                                      "placeholder": "Search",
+                                                      "value": true
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "button",
+                                                  "id": "tour-notifications",
+                                                  "type": "button",
+                                                  "children": [
+                                                    {
+                                                      "tag": "span",
+                                                      "text": "12",
+                                                      "children": [
+                                                        {
+                                                          "text": "12"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "button",
+                                                  "type": "button",
+                                                  "children": [
+                                                    {
+                                                      "tag": "span",
+                                                      "children": [
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "AD",
+                                                          "children": [
+                                                            {
+                                                              "text": "AD"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "children": [
+                                            {
+                                              "tag": "button",
+                                              "text": "All",
+                                              "children": [
+                                                {
+                                                  "text": "All"
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "500",
+                                                  "children": [
+                                                    {
+                                                      "text": "500"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "button",
+                                              "text": "Patient Needs Waiver (PNW) Request",
+                                              "children": [
+                                                {
+                                                  "text": "Patient Needs Waiver (PNW) Request"
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "369",
+                                                  "children": [
+                                                    {
+                                                      "text": "369"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "button",
+                                              "text": "Program Flexibility (PF) Request",
+                                              "children": [
+                                                {
+                                                  "text": "Program Flexibility (PF) Request"
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "116",
+                                                  "children": [
+                                                    {
+                                                      "text": "116"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "button",
+                                              "text": "Workforce Shortage Waiver (WSW) Request",
+                                              "children": [
+                                                {
+                                                  "text": "Workforce Shortage Waiver (WSW) Request"
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "15",
+                                                  "children": [
+                                                    {
+                                                      "text": "15"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "id": "tour-status-filters",
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "children": [
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "All Applications ",
+                                                      "children": [
+                                                        {
+                                                          "text": "All Applications"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "500",
+                                                          "children": [
+                                                            {
+                                                              "text": "500"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Draft ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Draft"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "188",
+                                                          "children": [
+                                                            {
+                                                              "text": "188"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Submitted ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Submitted"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "294",
+                                                          "children": [
+                                                            {
+                                                              "text": "294"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Reopen ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Reopen"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "0",
+                                                          "children": [
+                                                            {
+                                                              "text": "0"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "In Review ",
+                                                      "children": [
+                                                        {
+                                                          "text": "In Review"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "4",
+                                                          "children": [
+                                                            {
+                                                              "text": "4"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Rejected ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Rejected"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "0",
+                                                          "children": [
+                                                            {
+                                                              "text": "0"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Approved ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Approved"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "6",
+                                                          "children": [
+                                                            {
+                                                              "text": "6"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Evaluator Review ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Evaluator Review"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "1",
+                                                          "children": [
+                                                            {
+                                                              "text": "1"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Manager Review ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Manager Review"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "7",
+                                                          "children": [
+                                                            {
+                                                              "text": "7"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Revoked ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Revoked"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "0",
+                                                          "children": [
+                                                            {
+                                                              "text": "0"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "Expired ",
+                                                      "children": [
+                                                        {
+                                                          "text": "Expired"
+                                                        },
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "0",
+                                                          "children": [
+                                                            {
+                                                              "text": "0"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "id": "tour-applications-table",
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "children": [
+                                                {
+                                                  "tag": "table",
+                                                  "children": [
+                                                    {
+                                                      "tag": "thead",
+                                                      "children": [
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "th",
+                                                              "text": "Waiver ID",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Waiver ID"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "th",
+                                                              "text": "Name",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Name"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "th",
+                                                              "text": "Facility",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Facility"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "th",
+                                                              "text": "Type",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Type"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "th",
+                                                              "text": "Status",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Status"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "th",
+                                                              "text": "Created on",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Created on"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "tbody",
+                                                      "children": [
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PNW-01373-F0C4D9",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PNW-01373-F0C4D9"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1035 MARKET CLINIC - Patient Needs Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1035 MARKET CLINIC - Patient Needs Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1035 MARKET CLINIC",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1035 MARKET CLINIC"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Patient Needs Waiver (PNW) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Draft",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Draft"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PNW-01372-V7Y1Y4",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PNW-01372-V7Y1Y4"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1 & 1 HOME HEALTH, INC."
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Patient Needs Waiver (PNW) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Submitted",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Submitted"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PNW-01371-K0H8X4",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PNW-01371-K0H8X4"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1 & 1 HOME HEALTH, INC."
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Patient Needs Waiver (PNW) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Submitted",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Submitted"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PNW-01370-C7Z9B9",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PNW-01370-C7Z9B9"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1 & 1 HOME HEALTH, INC."
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Patient Needs Waiver (PNW) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Draft",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Draft"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PNW-01369-D8Y2L4",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PNW-01369-D8Y2L4"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "BARTON GENERAL SURGERY OFFICE - Patient Needs Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "BARTON GENERAL SURGERY OFFICE - Patient Needs Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "BARTON GENERAL SURGERY OFFICE",
+                                                              "children": [
+                                                                {
+                                                                  "text": "BARTON GENERAL SURGERY OFFICE"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Patient Needs Waiver (PNW) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Draft",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Draft"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PFA-01705-L0Z9T6",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PFA-01705-L0Z9T6"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Standard Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1 & 1 HOME HEALTH, INC. - Standard Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1 & 1 HOME HEALTH, INC."
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Program Flexibility (PF) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Program Flexibility (PF) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Submitted",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Submitted"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PNW-01368-Q6B8Z8",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PNW-01368-Q6B8Z8"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1 & 1 HOME HEALTH, INC."
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Patient Needs Waiver (PNW) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Draft",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Draft"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PFA-01703-N8M1J9",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PFA-01703-N8M1J9"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Standard Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1 & 1 HOME HEALTH, INC. - Standard Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1 & 1 HOME HEALTH, INC."
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Program Flexibility (PF) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Program Flexibility (PF) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Submitted",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Submitted"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PFA-01702-X0J0D7",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PFA-01702-X0J0D7"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Standard Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1 & 1 HOME HEALTH, INC. - Standard Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1 & 1 HOME HEALTH, INC."
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Program Flexibility (PF) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Program Flexibility (PF) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Submitted",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Submitted"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "tr",
+                                                          "children": [
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "PNW-01367-X4D9Q4",
+                                                              "children": [
+                                                                {
+                                                                  "text": "PNW-01367-X4D9Q4"
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
+                                                              "children": [
+                                                                {
+                                                                  "text": "1 & 1 HOME HEALTH, INC."
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
+                                                                  "children": [
+                                                                    {
+                                                                      "text": "Patient Needs Waiver (PNW) Request"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "span",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "span",
+                                                                      "text": "Submitted",
+                                                                      "children": [
+                                                                        {
+                                                                          "text": "Submitted"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag": "td",
+                                                              "text": "Jun 16, 2026",
+                                                              "children": [
+                                                                {
+                                                                  "text": "Jun 16, 2026"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "children": [
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "Rows per page",
+                                                          "children": [
+                                                            {
+                                                              "text": "Rows per page"
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag": "button",
+                                                          "type": "button",
+                                                          "children": [
+                                                            {
+                                                              "tag": "span",
+                                                              "text": "10",
+                                                              "children": [
+                                                                {
+                                                                  "text": "10"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "div",
+                                                      "text": "Page 1 of 50",
+                                                      "children": [
+                                                        {
+                                                          "text": "Page"
+                                                        },
+                                                        {
+                                                          "text": "1"
+                                                        },
+                                                        {
+                                                          "text": "of"
+                                                        },
+                                                        {
+                                                          "text": "50"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "div",
+                                                      "children": [
+                                                        {
+                                                          "tag": "button",
+                                                          "disabled": true
+                                                        },
+                                                        {
+                                                          "tag": "button",
+                                                          "disabled": true
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "children": [
+                                                {
+                                                  "tag": "h3",
+                                                  "text": "Applications by Type",
+                                                  "children": [
+                                                    {
+                                                      "text": "Applications by Type"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "children": [
+                                                        {
+                                                          "tag": "div",
+                                                          "children": [
+                                                            {
+                                                              "tag": "div",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "div",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "PNW",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "PNW"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "PF",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "PF"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "WSW",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "WSW"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "id": "tour-overview-chart",
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "children": [
+                                                {
+                                                  "tag": "h3",
+                                                  "text": "Applications Overview",
+                                                  "children": [
+                                                    {
+                                                      "text": "Applications Overview"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "children": [
+                                                        {
+                                                          "tag": "div",
+                                                          "children": [
+                                                            {
+                                                              "tag": "div",
+                                                              "children": [
+                                                                {
+                                                                  "tag": "div",
+                                                                  "children": [
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "Approved",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "Approved"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "Draft",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "Draft"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "Evaluator Review",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "Evaluator Review"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "In Review",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "In Review"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "Manager Review",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "Manager Review"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "tag": "div",
+                                                                      "children": [
+                                                                        {
+                                                                          "tag": "span",
+                                                                          "text": "Submitted",
+                                                                          "children": [
+                                                                            {
+                                                                              "text": "Submitted"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
