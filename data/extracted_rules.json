@@ -1,35 +1,11 @@
 [
   {
-    "element": "Search waivers",
-    "rule": "Search box filters the program list by name"
-  },
-  {
-    "element": "Sign In button",
-    "rule": "Located in the top-right corner of the landing page"
-  },
-  {
-    "element": "Password field",
-    "rule": "Must be at least 6 characters"
-  },
-  {
     "element": "Sidebar",
     "rule": "Fixed on the left side of all signed-in pages"
   },
   {
-    "element": "Header",
-    "rule": "Fixed along the top of all signed-in pages"
-  },
-  {
     "element": "+ New Waiver Request button",
     "rule": "Available from the sidebar on every page"
-  },
-  {
-    "element": "Notifications badge",
-    "rule": "Shows the number of outstanding action items"
-  },
-  {
-    "element": "Account avatar",
-    "rule": "Displays user initials and reveals email and Logout button"
   },
   {
     "element": "Waiver-type tabs",
@@ -40,39 +16,7 @@
     "rule": "Filters applications by Draft, Submitted, Reopen, In Review, Rejected, Approved, Evaluator Review, Manager Review, Revoked, and Expired"
   },
   {
-    "element": "New Waiver Application panel",
-    "rule": "Opens as a panel over the current page; includes progress bar and step tabs"
-  },
-  {
-    "element": "New Waiver Application steps",
-    "rule": "Must follow sequence: Waiver Type, Select Location, Fill Application"
-  },
-  {
-    "element": "Facilities Status Tracking",
-    "rule": "Can be toggled on or off under Settings -> Features"
-  },
-  {
     "element": "Action Items table",
     "rule": "Columns include ID, Name, Status, Priority, and Due Date"
-  },
-  {
-    "element": "User Management tabs",
-    "rule": "Separates Members from Pending Invites"
-  },
-  {
-    "element": "Support Ticket creation",
-    "rule": "Requires Title, Related Application, Category, Sub Category, Description, and file attachments"
-  },
-  {
-    "element": "Profile Information",
-    "rule": "Email field is read-only"
-  },
-  {
-    "element": "Security (Change Password)",
-    "rule": "New password must be at least 6 characters long"
-  },
-  {
-    "element": "FAQ Assistant Chatbot",
-    "rule": "Off by default in Settings"
   }
 ]

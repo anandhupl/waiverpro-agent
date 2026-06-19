@@ -1,0 +1,2219 @@
+{
+  "tag": "body",
+  "text": "",
+  "attributes": {},
+  "boundingBox": {
+    "x": 0,
+    "y": 0,
+    "width": 1280,
+    "height": 2243
+  },
+  "children": [
+    {
+      "tag": "div",
+      "text": "",
+      "attributes": {
+        "id": "root"
+      },
+      "boundingBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 2243
+      },
+      "children": [
+        {
+          "tag": "div",
+          "text": "",
+          "attributes": {},
+          "boundingBox": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 2243
+          },
+          "children": [
+            {
+              "tag": "div",
+              "text": "",
+              "attributes": {},
+              "boundingBox": {
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 2243
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "text": "",
+                  "attributes": {},
+                  "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1280,
+                    "height": 2243
+                  },
+                  "children": [
+                    {
+                      "tag": "header",
+                      "text": "",
+                      "attributes": {
+                        "class": "relative z-20 flex h-16 items-center justify-between px-6 bg-background border-b"
+                      },
+                      "boundingBox": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 1280,
+                        "height": 64
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "text": "",
+                          "attributes": {
+                            "class": "flex items-center"
+                          },
+                          "boundingBox": {
+                            "x": 24,
+                            "y": 14,
+                            "width": 36,
+                            "height": 36
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "class": "w-9 h-9 bg-primary rounded-lg flex items-center justify-center"
+                              },
+                              "boundingBox": {
+                                "x": 24,
+                                "y": 14,
+                                "width": 36,
+                                "height": 36
+                              },
+                              "children": [
+                                {
+                                  "tag": "svg",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "lucide lucide-gallery-vertical-end h-5 w-5 text-primary-foreground"
+                                  },
+                                  "boundingBox": {
+                                    "x": 32,
+                                    "y": 22,
+                                    "width": 20,
+                                    "height": 20
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "rect",
+                                      "text": "",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 35,
+                                        "y": 30,
+                                        "width": 15,
+                                        "height": 10
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "text": "Getting Started",
+                          "attributes": {
+                            "class": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive text-primary-foreground h-10 rounded-md px-6 has-[>svg]:px-4 bg-emerald-600 hover:bg-emerald-700",
+                            "href": "/login"
+                          },
+                          "boundingBox": {
+                            "x": 1111,
+                            "y": 12,
+                            "width": 145,
+                            "height": 40
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "section",
+                      "text": "",
+                      "attributes": {
+                        "class": "\n        relative\n        bg-cover bg-top bg-no-repeat\n        min-h-[320px]\n        flex items-center\n        shadow-[inset_0_12px_24px_-12px_rgba(0,0,0,0.03)]\n        mb-0\n      "
+                      },
+                      "boundingBox": {
+                        "x": 0,
+                        "y": 64,
+                        "width": 1280,
+                        "height": 328
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "text": "",
+                          "attributes": {
+                            "class": "mx-auto max-w-4xl px-6 py-14 text-center w-full"
+                          },
+                          "boundingBox": {
+                            "x": 192,
+                            "y": 64,
+                            "width": 896,
+                            "height": 328
+                          },
+                          "children": [
+                            {
+                              "tag": "h1",
+                              "text": "Healthcare Waiver Management",
+                              "attributes": {
+                                "class": "text-4xl font-bold tracking-tight md:text-5xl text-black drop-shadow-lg"
+                              },
+                              "boundingBox": {
+                                "x": 216,
+                                "y": 120,
+                                "width": 848,
+                                "height": 96
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "p",
+                              "text": "Streamline your regulatory waiver process from submission to approval",
+                              "attributes": {
+                                "class": "mt-4 text-lg text-muted-foreground/90 drop-shadow-md"
+                              },
+                              "boundingBox": {
+                                "x": 216,
+                                "y": 232,
+                                "width": 848,
+                                "height": 28
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "class": "relative mx-auto mt-8 max-w-2xl"
+                              },
+                              "boundingBox": {
+                                "x": 304,
+                                "y": 292,
+                                "width": 672,
+                                "height": 44
+                              },
+                              "children": [
+                                {
+                                  "tag": "input",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive h-11 pr-10 w-full",
+                                    "placeholder": "Search waivers"
+                                  },
+                                  "boundingBox": {
+                                    "x": 304,
+                                    "y": 292,
+                                    "width": 672,
+                                    "height": 44
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "svg",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "lucide lucide-search pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground"
+                                  },
+                                  "boundingBox": {
+                                    "x": 948,
+                                    "y": 306,
+                                    "width": 16,
+                                    "height": 16
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "path",
+                                      "text": "",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 959,
+                                        "y": 317,
+                                        "width": 3,
+                                        "height": 3
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "circle",
+                                      "text": "",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 950,
+                                        "y": 308,
+                                        "width": 11,
+                                        "height": 11
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "section",
+                      "text": "",
+                      "attributes": {
+                        "class": "mx-auto max-w-7xl px-6"
+                      },
+                      "boundingBox": {
+                        "x": 0,
+                        "y": 392,
+                        "width": 1280,
+                        "height": 1798
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "text": "",
+                          "attributes": {
+                            "class": "\n        sticky z-10 top-0\n        bg-background border-b\n        -mx-6 px-6\n        mt-0\n      "
+                          },
+                          "boundingBox": {
+                            "x": 0,
+                            "y": 392,
+                            "width": 1280,
+                            "height": 105
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "class": "mx-auto max-w-7xl py-3 text-center"
+                              },
+                              "boundingBox": {
+                                "x": 24,
+                                "y": 392,
+                                "width": 1232,
+                                "height": 104
+                              },
+                              "children": [
+                                {
+                                  "tag": "h2",
+                                  "text": "All Waiver Programs",
+                                  "attributes": {
+                                    "class": "text-3xl font-bold tracking-tight"
+                                  },
+                                  "boundingBox": {
+                                    "x": 24,
+                                    "y": 404,
+                                    "width": 1232,
+                                    "height": 36
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "mt-3 flex flex-wrap justify-center gap-2"
+                                  },
+                                  "boundingBox": {
+                                    "x": 24,
+                                    "y": 452,
+                                    "width": 1232,
+                                    "height": 32
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "text": "Patient Needs Waiver (PNW) Request",
+                                      "attributes": {
+                                        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-secondary text-secondary-foreground hover:bg-secondary/80 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5"
+                                      },
+                                      "boundingBox": {
+                                        "x": 236,
+                                        "y": 452,
+                                        "width": 260,
+                                        "height": 32
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "button",
+                                      "text": "Program Flexibility (PF) Request",
+                                      "attributes": {
+                                        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5"
+                                      },
+                                      "boundingBox": {
+                                        "x": 504,
+                                        "y": 452,
+                                        "width": 228,
+                                        "height": 32
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "button",
+                                      "text": "Workforce Shortage Waiver (WSW) Request",
+                                      "attributes": {
+                                        "class": "inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5"
+                                      },
+                                      "boundingBox": {
+                                        "x": 740,
+                                        "y": 452,
+                                        "width": 304,
+                                        "height": 32
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "text": "",
+                          "attributes": {
+                            "class": "mt-12 space-y-24 pb-24"
+                          },
+                          "boundingBox": {
+                            "x": 24,
+                            "y": 545,
+                            "width": 1232,
+                            "height": 1646
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "id": "2a7afc48-80e4-f011-8544-0022480959fd",
+                                "class": "grid items-center gap-10 md:grid-cols-2"
+                              },
+                              "boundingBox": {
+                                "x": 24,
+                                "y": 545,
+                                "width": 1232,
+                                "height": 400
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": ""
+                                  },
+                                  "boundingBox": {
+                                    "x": 24,
+                                    "y": 573,
+                                    "width": 596,
+                                    "height": 344
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "flex items-center gap-3 mb-2"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 573,
+                                        "width": 596,
+                                        "height": 32
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "h3",
+                                          "text": "Patient Needs Waiver (PNW) Request",
+                                          "attributes": {
+                                            "class": "text-2xl font-bold"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 573,
+                                            "width": 421,
+                                            "height": 32
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "p",
+                                      "text": "Apply when the facility is seeking a waiver of the 2.4 CNA requirement to meet individual patient needs but will provide a minimum of 3.5 direct care service hours. Facilities may only submit one Patient Needs Waiver and/or one Workforce Shortage Waiver application in the same year. If submitting both, only one may be approved.",
+                                      "attributes": {
+                                        "class": "mt-3 text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 617,
+                                        "width": 596,
+                                        "height": 96
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "mt-6 flex gap-6 text-sm"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 737,
+                                        "width": 596,
+                                        "height": 40
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex items-center gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 737,
+                                            "width": 172,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "h-8 w-8 border border-gray-300 rounded flex items-center justify-center flex-shrink-0"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 741,
+                                                "width": 32,
+                                                "height": 32
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "svg",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "lucide lucide-clock h-4 w-4 text-emerald-600"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 32,
+                                                    "y": 749,
+                                                    "width": 16,
+                                                    "height": 16
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "path",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 40,
+                                                        "y": 753,
+                                                        "width": 3,
+                                                        "height": 5
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "circle",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 33,
+                                                        "y": 750,
+                                                        "width": 13,
+                                                        "height": 13
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 64,
+                                                "y": 737,
+                                                "width": 132,
+                                                "height": 40
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "strong",
+                                                  "text": "15\u201320 business days",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 64,
+                                                    "y": 738,
+                                                    "width": 132,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "Processing Time",
+                                                  "attributes": {
+                                                    "class": "text-muted-foreground"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 64,
+                                                    "y": 758,
+                                                    "width": 100,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex items-center gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 220,
+                                            "y": 737,
+                                            "width": 125,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "h-8 w-8 border border-gray-300 rounded flex items-center justify-center flex-shrink-0"
+                                              },
+                                              "boundingBox": {
+                                                "x": 220,
+                                                "y": 741,
+                                                "width": 32,
+                                                "height": 32
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "svg",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "lucide lucide-calendar h-4 w-4 text-emerald-600"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 228,
+                                                    "y": 749,
+                                                    "width": 16,
+                                                    "height": 16
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "rect",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 230,
+                                                        "y": 751,
+                                                        "width": 12,
+                                                        "height": 12
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 260,
+                                                "y": 737,
+                                                "width": 85,
+                                                "height": 40
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "strong",
+                                                  "text": "6\u201312 months",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 260,
+                                                    "y": 738,
+                                                    "width": 85,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "Waiver Period",
+                                                  "attributes": {
+                                                    "class": "text-muted-foreground"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 260,
+                                                    "y": 758,
+                                                    "width": 85,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "ul",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "mt-6 space-y-3 text-sm"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 801,
+                                        "width": 596,
+                                        "height": 116
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 801,
+                                            "width": 596,
+                                            "height": 20
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 803,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 27,
+                                                    "y": 807,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Applies to individualized patient care plan modifications based on clinical needs",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 48,
+                                                "y": 801,
+                                                "width": 493,
+                                                "height": 20
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 833,
+                                            "width": 596,
+                                            "height": 20
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 835,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 27,
+                                                    "y": 839,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Documented patient or family request for accommodation required",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 48,
+                                                "y": 833,
+                                                "width": 417,
+                                                "height": 20
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 865,
+                                            "width": 596,
+                                            "height": 20
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 867,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 27,
+                                                    "y": 871,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Clinical assessment supporting the modification must be on file",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 48,
+                                                "y": 865,
+                                                "width": 391,
+                                                "height": 20
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 897,
+                                            "width": 596,
+                                            "height": 20
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 899,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 27,
+                                                    "y": 903,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Interdisciplinary team agreement and approval is required",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 48,
+                                                "y": 897,
+                                                "width": 358,
+                                                "height": 20
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": ""
+                                  },
+                                  "boundingBox": {
+                                    "x": 660,
+                                    "y": 545,
+                                    "width": 596,
+                                    "height": 400
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "img",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "w-full h-[400px] rounded-xl object-cover",
+                                        "src": "/programs/1st.png"
+                                      },
+                                      "boundingBox": {
+                                        "x": 660,
+                                        "y": 545,
+                                        "width": 596,
+                                        "height": 400
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "id": "ac552a62-80e4-f011-8544-0022480959fd",
+                                "class": "grid items-center gap-10 md:grid-cols-2"
+                              },
+                              "boundingBox": {
+                                "x": 24,
+                                "y": 1041,
+                                "width": 1232,
+                                "height": 456
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "md:order-2"
+                                  },
+                                  "boundingBox": {
+                                    "x": 660,
+                                    "y": 1041,
+                                    "width": 596,
+                                    "height": 456
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "flex items-center gap-3 mb-2"
+                                      },
+                                      "boundingBox": {
+                                        "x": 660,
+                                        "y": 1041,
+                                        "width": 596,
+                                        "height": 32
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "h3",
+                                          "text": "Program Flexibility (PF) Request",
+                                          "attributes": {
+                                            "class": "text-2xl font-bold"
+                                          },
+                                          "boundingBox": {
+                                            "x": 660,
+                                            "y": 1041,
+                                            "width": 363,
+                                            "height": 32
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "p",
+                                      "text": "Apply when the facility is seeking program flexibility to regulations. The request must include justification for the program flexibility, adequate description of the alternative concept, and documentation supporting that patient care will not be compromised. The facility may request program flexibility that is intended to be emergency or routine. An approved program flexibility request is for a limited term with a start and an end date. Facilities may submit more than one application as needed.",
+                                      "attributes": {
+                                        "class": "mt-3 text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 660,
+                                        "y": 1085,
+                                        "width": 596,
+                                        "height": 168
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "mt-6 flex gap-6 text-sm"
+                                      },
+                                      "boundingBox": {
+                                        "x": 660,
+                                        "y": 1277,
+                                        "width": 596,
+                                        "height": 40
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex items-center gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 660,
+                                            "y": 1277,
+                                            "width": 140,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "h-8 w-8 border border-gray-300 rounded flex items-center justify-center flex-shrink-0"
+                                              },
+                                              "boundingBox": {
+                                                "x": 660,
+                                                "y": 1281,
+                                                "width": 32,
+                                                "height": 32
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "svg",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "lucide lucide-clock h-4 w-4 text-emerald-600"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 668,
+                                                    "y": 1289,
+                                                    "width": 16,
+                                                    "height": 16
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "path",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 676,
+                                                        "y": 1293,
+                                                        "width": 3,
+                                                        "height": 5
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "circle",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 669,
+                                                        "y": 1290,
+                                                        "width": 13,
+                                                        "height": 13
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 700,
+                                                "y": 1277,
+                                                "width": 100,
+                                                "height": 40
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "strong",
+                                                  "text": "Within 60 days",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 700,
+                                                    "y": 1278,
+                                                    "width": 98,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "Processing Time",
+                                                  "attributes": {
+                                                    "class": "text-muted-foreground"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 700,
+                                                    "y": 1298,
+                                                    "width": 100,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex items-center gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 824,
+                                            "y": 1277,
+                                            "width": 125,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "h-8 w-8 border border-gray-300 rounded flex items-center justify-center flex-shrink-0"
+                                              },
+                                              "boundingBox": {
+                                                "x": 824,
+                                                "y": 1281,
+                                                "width": 32,
+                                                "height": 32
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "svg",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "lucide lucide-calendar h-4 w-4 text-emerald-600"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 832,
+                                                    "y": 1289,
+                                                    "width": 16,
+                                                    "height": 16
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "rect",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 834,
+                                                        "y": 1291,
+                                                        "width": 12,
+                                                        "height": 12
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 864,
+                                                "y": 1277,
+                                                "width": 85,
+                                                "height": 40
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "strong",
+                                                  "text": "6\u201312 months",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 864,
+                                                    "y": 1278,
+                                                    "width": 85,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "Waiver Period",
+                                                  "attributes": {
+                                                    "class": "text-muted-foreground"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 864,
+                                                    "y": 1298,
+                                                    "width": 85,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "ul",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "mt-6 space-y-3 text-sm"
+                                      },
+                                      "boundingBox": {
+                                        "x": 660,
+                                        "y": 1341,
+                                        "width": 596,
+                                        "height": 156
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 660,
+                                            "y": 1341,
+                                            "width": 596,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 660,
+                                                "y": 1343,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 663,
+                                                    "y": 1347,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Submit a detailed justification demonstrating how the alternative maintains compliance and protects residents",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 684,
+                                                "y": 1341,
+                                                "width": 572,
+                                                "height": 40
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 660,
+                                            "y": 1393,
+                                            "width": 596,
+                                            "height": 20
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 660,
+                                                "y": 1395,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 663,
+                                                    "y": 1399,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "All requests must be submitted online through WaiverPRO",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 684,
+                                                "y": 1393,
+                                                "width": 360,
+                                                "height": 20
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 660,
+                                            "y": 1425,
+                                            "width": 596,
+                                            "height": 20
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 660,
+                                                "y": 1427,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 663,
+                                                    "y": 1431,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "CDPH will respond within 60 days after all required documentation is received",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 684,
+                                                "y": 1425,
+                                                "width": 480,
+                                                "height": 20
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 660,
+                                            "y": 1457,
+                                            "width": 596,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 660,
+                                                "y": 1459,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 663,
+                                                    "y": 1463,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Approved flexibilities include an expiration date and specific terms; may be revoked if conditions are not met",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 684,
+                                                "y": 1457,
+                                                "width": 572,
+                                                "height": 40
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "md:order-1"
+                                  },
+                                  "boundingBox": {
+                                    "x": 24,
+                                    "y": 1069,
+                                    "width": 596,
+                                    "height": 400
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "img",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "w-full h-[400px] rounded-xl object-cover",
+                                        "src": "/programs/2nd.png"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 1069,
+                                        "width": 596,
+                                        "height": 400
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "id": "f1b06c74-80e4-f011-8544-0022480959fd",
+                                "class": "grid items-center gap-10 md:grid-cols-2"
+                              },
+                              "boundingBox": {
+                                "x": 24,
+                                "y": 1593,
+                                "width": 1232,
+                                "height": 502
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": ""
+                                  },
+                                  "boundingBox": {
+                                    "x": 24,
+                                    "y": 1593,
+                                    "width": 596,
+                                    "height": 502
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "flex items-center gap-3 mb-2"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 1593,
+                                        "width": 596,
+                                        "height": 32
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "h3",
+                                          "text": "Workforce Shortage Waiver (WSW) Request",
+                                          "attributes": {
+                                            "class": "text-2xl font-bold"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 1593,
+                                            "width": 496,
+                                            "height": 32
+                                          },
+                                          "children": []
+                                        },
+                                        {
+                                          "tag": "span",
+                                          "text": "Expired",
+                                          "attributes": {
+                                            "class": "inline-flex items-center justify-center rounded-full border px-2 py-0.5 font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-destructive text-white [a&]:hover:bg-destructive/90 focus-visible:ring-destructive/20 dark:focus-visible:ring-destructive/40 dark:bg-destructive/60 text-xs"
+                                          },
+                                          "boundingBox": {
+                                            "x": 532,
+                                            "y": 1598,
+                                            "width": 58,
+                                            "height": 22
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "mb-4 p-3 rounded-md text-sm bg-red-50 border border-red-200 text-red-800"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 1633,
+                                        "width": 596,
+                                        "height": 42
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "p",
+                                          "text": "This waiver was available from Dec 29, 2025 to Apr 30, 2026",
+                                          "attributes": {
+                                            "class": "text-xs"
+                                          },
+                                          "boundingBox": {
+                                            "x": 37,
+                                            "y": 1646,
+                                            "width": 570,
+                                            "height": 16
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "p",
+                                      "text": "Apply when the facility is seeking a waiver of the 3.5 direct care service hours requirement and/or the 2.4 CNA hours requirement due to a workforce shortage of available and appropriate health care professionals and direct care givers. Facilities may only submit one Patient Needs Waiver and/or one Workforce Shortage Waiver application in the same year. If submitting both, only one may be approved.",
+                                      "attributes": {
+                                        "class": "mt-3 text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 1690,
+                                        "width": 596,
+                                        "height": 120
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "mt-6 flex gap-6 text-sm"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 1834,
+                                        "width": 596,
+                                        "height": 40
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex items-center gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 1834,
+                                            "width": 172,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "h-8 w-8 border border-gray-300 rounded flex items-center justify-center flex-shrink-0"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 1838,
+                                                "width": 32,
+                                                "height": 32
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "svg",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "lucide lucide-clock h-4 w-4 text-emerald-600"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 32,
+                                                    "y": 1846,
+                                                    "width": 16,
+                                                    "height": 16
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "path",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 40,
+                                                        "y": 1850,
+                                                        "width": 3,
+                                                        "height": 5
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "circle",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 33,
+                                                        "y": 1848,
+                                                        "width": 13,
+                                                        "height": 13
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 64,
+                                                "y": 1834,
+                                                "width": 132,
+                                                "height": 40
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "strong",
+                                                  "text": "15\u201320 business days",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 64,
+                                                    "y": 1835,
+                                                    "width": 132,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "Processing Time",
+                                                  "attributes": {
+                                                    "class": "text-muted-foreground"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 64,
+                                                    "y": 1855,
+                                                    "width": 100,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex items-center gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 220,
+                                            "y": 1834,
+                                            "width": 125,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "h-8 w-8 border border-gray-300 rounded flex items-center justify-center flex-shrink-0"
+                                              },
+                                              "boundingBox": {
+                                                "x": 220,
+                                                "y": 1838,
+                                                "width": 32,
+                                                "height": 32
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "svg",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "lucide lucide-calendar h-4 w-4 text-emerald-600"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 228,
+                                                    "y": 1846,
+                                                    "width": 16,
+                                                    "height": 16
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "rect",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 230,
+                                                        "y": 1849,
+                                                        "width": 12,
+                                                        "height": 12
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 260,
+                                                "y": 1834,
+                                                "width": 85,
+                                                "height": 40
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "strong",
+                                                  "text": "6\u201312 months",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 260,
+                                                    "y": 1835,
+                                                    "width": 85,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "text": "Waiver Period",
+                                                  "attributes": {
+                                                    "class": "text-muted-foreground"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 260,
+                                                    "y": 1855,
+                                                    "width": 85,
+                                                    "height": 18
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "ul",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "mt-6 space-y-3 text-sm"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 1898,
+                                        "width": 596,
+                                        "height": 196
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 1898,
+                                            "width": 596,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 1900,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 27,
+                                                    "y": 1904,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Facilities may not staff below 3.2 direct care hours per patient day, even with an approved waiver",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 48,
+                                                "y": 1898,
+                                                "width": 572,
+                                                "height": 40
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 1950,
+                                            "width": 596,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 1952,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 27,
+                                                    "y": 1956,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Only licensed freestanding SNFs (excluding GACH distinct parts, state-owned hospitals, and developmental centers) may apply",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 48,
+                                                "y": 1950,
+                                                "width": 572,
+                                                "height": 40
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 2002,
+                                            "width": 596,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 2004,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 27,
+                                                    "y": 2008,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "Application Window: January 1 \u2013 April 1 annually; applications will not be accepted outside this timeframe",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 48,
+                                                "y": 2002,
+                                                "width": 572,
+                                                "height": 40
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "li",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex gap-2"
+                                          },
+                                          "boundingBox": {
+                                            "x": 24,
+                                            "y": 2054,
+                                            "width": 596,
+                                            "height": 40
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-check h-4 w-4 text-emerald-600 flex-shrink-0 mt-0.5"
+                                              },
+                                              "boundingBox": {
+                                                "x": 24,
+                                                "y": 2056,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 27,
+                                                    "y": 2060,
+                                                    "width": 11,
+                                                    "height": 7
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "span",
+                                              "text": "One Workforce Shortage Waiver and/or one Patient Needs Waiver per year; only one may be approved",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 48,
+                                                "y": 2054,
+                                                "width": 572,
+                                                "height": 40
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": ""
+                                  },
+                                  "boundingBox": {
+                                    "x": 660,
+                                    "y": 1644,
+                                    "width": 596,
+                                    "height": 400
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "img",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "w-full h-[400px] rounded-xl object-cover",
+                                        "src": "/programs/3rd.png"
+                                      },
+                                      "boundingBox": {
+                                        "x": 660,
+                                        "y": 1644,
+                                        "width": 596,
+                                        "height": 400
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "footer",
+                      "text": "",
+                      "attributes": {
+                        "class": "border-t bg-background"
+                      },
+                      "boundingBox": {
+                        "x": 0,
+                        "y": 2190,
+                        "width": 1280,
+                        "height": 53
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "text": "",
+                          "attributes": {
+                            "class": "mx-auto max-w-7xl px-6 py-4"
+                          },
+                          "boundingBox": {
+                            "x": 0,
+                            "y": 2191,
+                            "width": 1280,
+                            "height": 52
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "class": "flex flex-col items-center justify-between gap-4 text-sm text-muted-foreground md:flex-row"
+                              },
+                              "boundingBox": {
+                                "x": 24,
+                                "y": 2207,
+                                "width": 1232,
+                                "height": 20
+                              },
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "text": "Copyright \u00a9 2025 WaiverPro",
+                                  "attributes": {},
+                                  "boundingBox": {
+                                    "x": 24,
+                                    "y": 2207,
+                                    "width": 178,
+                                    "height": 20
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "flex gap-6"
+                                  },
+                                  "boundingBox": {
+                                    "x": 1050,
+                                    "y": 2207,
+                                    "width": 206,
+                                    "height": 20
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "a",
+                                      "text": "Privacy Policy",
+                                      "attributes": {
+                                        "class": "hover:text-foreground transition-colors",
+                                        "href": "/privacy"
+                                      },
+                                      "boundingBox": {
+                                        "x": 1050,
+                                        "y": 2207,
+                                        "width": 83,
+                                        "height": 20
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "a",
+                                      "text": "Terms of Service",
+                                      "attributes": {
+                                        "class": "hover:text-foreground transition-colors",
+                                        "href": "/terms"
+                                      },
+                                      "boundingBox": {
+                                        "x": 1156,
+                                        "y": 2207,
+                                        "width": 100,
+                                        "height": 20
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "tag": "body",
+  "text": "",
+  "attributes": {},
+  "boundingBox": {
+    "x": 0,
+    "y": 0,
+    "width": 1280,
+    "height": 720
+  },
+  "children": [
+    {
+      "tag": "div",
+      "text": "",
+      "attributes": {
+        "id": "root"
+      },
+      "boundingBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "children": [
+        {
+          "tag": "div",
+          "text": "",
+          "attributes": {},
+          "boundingBox": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+          },
+          "children": [
+            {
+              "tag": "div",
+              "text": "",
+              "attributes": {
+                "class": "min-h-screen grid grid-cols-1 lg:grid-cols-2"
+              },
+              "boundingBox": {
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 720
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "text": "",
+                  "attributes": {
+                    "class": "relative flex items-center justify-center px-6"
+                  },
+                  "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 640,
+                    "height": 720
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "text": "",
+                      "attributes": {
+                        "class": "absolute top-6 left-6 flex items-center gap-3"
+                      },
+                      "boundingBox": {
+                        "x": 24,
+                        "y": 24,
+                        "width": 136,
+                        "height": 36
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "text": "",
+                          "attributes": {
+                            "class": "w-9 h-9 bg-primary rounded-lg flex items-center justify-center"
+                          },
+                          "boundingBox": {
+                            "x": 24,
+                            "y": 24,
+                            "width": 36,
+                            "height": 36
+                          },
+                          "children": [
+                            {
+                              "tag": "svg",
+                              "text": "",
+                              "attributes": {
+                                "class": "lucide lucide-gallery-vertical-end h-5 w-5 text-primary-foreground"
+                              },
+                              "boundingBox": {
+                                "x": 32,
+                                "y": 32,
+                                "width": 20,
+                                "height": 20
+                              },
+                              "children": [
+                                {
+                                  "tag": "rect",
+                                  "text": "",
+                                  "attributes": {},
+                                  "boundingBox": {
+                                    "x": 35,
+                                    "y": 40,
+                                    "width": 15,
+                                    "height": 10
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "text": "WaiverPro",
+                          "attributes": {
+                            "class": "font-bold text-lg"
+                          },
+                          "boundingBox": {
+                            "x": 72,
+                            "y": 28,
+                            "width": 88,
+                            "height": 28
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "text": "",
+                      "attributes": {
+                        "class": "w-full max-w-sm space-y-6"
+                      },
+                      "boundingBox": {
+                        "x": 128,
+                        "y": 227,
+                        "width": 384,
+                        "height": 266
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "text": "",
+                          "attributes": {
+                            "class": "space-y-1"
+                          },
+                          "boundingBox": {
+                            "x": 128,
+                            "y": 227,
+                            "width": 384,
+                            "height": 56
+                          },
+                          "children": [
+                            {
+                              "tag": "h1",
+                              "text": "Login to your account",
+                              "attributes": {
+                                "class": "text-2xl font-semibold"
+                              },
+                              "boundingBox": {
+                                "x": 128,
+                                "y": 227,
+                                "width": 384,
+                                "height": 32
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "p",
+                              "text": "Enter your email below to login to your account.",
+                              "attributes": {
+                                "class": "text-sm text-muted-foreground"
+                              },
+                              "boundingBox": {
+                                "x": 128,
+                                "y": 263,
+                                "width": 384,
+                                "height": 20
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "form",
+                          "text": "",
+                          "attributes": {
+                            "class": "space-y-4"
+                          },
+                          "boundingBox": {
+                            "x": 128,
+                            "y": 307,
+                            "width": 384,
+                            "height": 186
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "class": "space-y-2"
+                              },
+                              "boundingBox": {
+                                "x": 128,
+                                "y": 307,
+                                "width": 384,
+                                "height": 58
+                              },
+                              "children": [
+                                {
+                                  "tag": "label",
+                                  "text": "Email",
+                                  "attributes": {
+                                    "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                  },
+                                  "boundingBox": {
+                                    "x": 128,
+                                    "y": 307,
+                                    "width": 384,
+                                    "height": 14
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "input",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+                                    "id": "email",
+                                    "placeholder": "m@example.com",
+                                    "type": "email",
+                                    "name": "email"
+                                  },
+                                  "boundingBox": {
+                                    "x": 128,
+                                    "y": 329,
+                                    "width": 384,
+                                    "height": 36
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "class": "space-y-2"
+                              },
+                              "boundingBox": {
+                                "x": 128,
+                                "y": 381,
+                                "width": 384,
+                                "height": 60
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "flex items-center justify-between"
+                                  },
+                                  "boundingBox": {
+                                    "x": 128,
+                                    "y": 381,
+                                    "width": 384,
+                                    "height": 16
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "label",
+                                      "text": "Password",
+                                      "attributes": {
+                                        "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                      },
+                                      "boundingBox": {
+                                        "x": 128,
+                                        "y": 382,
+                                        "width": 60,
+                                        "height": 14
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "button",
+                                      "text": "Forgot your password?",
+                                      "attributes": {
+                                        "type": "button",
+                                        "class": "text-xs text-muted-foreground hover:underline"
+                                      },
+                                      "boundingBox": {
+                                        "x": 391,
+                                        "y": 381,
+                                        "width": 121,
+                                        "height": 16
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "input",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+                                    "id": "password",
+                                    "type": "password",
+                                    "name": "password"
+                                  },
+                                  "boundingBox": {
+                                    "x": 128,
+                                    "y": 405,
+                                    "width": 384,
+                                    "height": 36
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "button",
+                              "text": "Login",
+                              "attributes": {
+                                "class": "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive text-primary-foreground h-9 px-4 py-2 has-[>svg]:px-3 w-full bg-emerald-600 hover:bg-emerald-700",
+                                "type": "submit"
+                              },
+                              "boundingBox": {
+                                "x": 128,
+                                "y": 457,
+                                "width": 384,
+                                "height": 36
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "text": "",
+                  "attributes": {
+                    "class": "hidden lg:block relative"
+                  },
+                  "boundingBox": {
+                    "x": 640,
+                    "y": 0,
+                    "width": 640,
+                    "height": 720
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "text": "",
+                      "attributes": {
+                        "class": "absolute inset-0 h-full w-full object-cover object-bottom grayscale",
+                        "src": "/login-hero.png"
+                      },
+                      "boundingBox": {
+                        "x": 640,
+                        "y": 0,
+                        "width": 640,
+                        "height": 720
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

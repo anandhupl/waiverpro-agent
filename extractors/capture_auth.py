@@ -88,7 +88,7 @@ def extract_page_data(page, page_name="dashboard"):
 
 
 def capture_session():
-    print("[*] Launching Playwright to capture authentication state...")
+    print("[*] Launching Playwright multi-page extraction sequence...")
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False) 
@@ -96,22 +96,23 @@ def capture_session():
         page = context.new_page()
         
         try:
+            # --- STOP 1: THE LANDING PAGE ---
             print(f"[*] Navigating to {TARGET_URL}")
             page.goto(TARGET_URL)
+            page.wait_for_timeout(4000) # Let animations settle
+            extract_page_data(page, "landing_page")
             
-            print("[*] Waiting for the page to physically load...")
-            page.wait_for_timeout(5000)
-            
+            # --- STOP 2: THE LOGIN SCREEN ---
             print("[*] Locating the entry point...")
             entry_locator = page.locator("text=/Getting Started|Get Started|Sign In/i").first
-            
             entry_locator.wait_for(state="visible", timeout=5000)
-            print("[*] Found entry point. Clicking...")
             entry_locator.click()
             
             print("[*] Waiting for the login screen to render...")
             page.wait_for_timeout(3000)
+            extract_page_data(page, "login_page")
 
+            # --- THE AUTHENTICATION INJECTION ---
             print("[*] Injecting credentials...")
             email_field = page.get_by_label("Email")
             email_field.wait_for(state="visible", timeout=5000)
@@ -121,12 +122,15 @@ def capture_session():
             print("[*] Submitting login form...")
             page.get_by_role("button", name="Login").click()
             
-            print("[*] Waiting for dashboard redirect...")
+            # --- STOP 3: THE DASHBOARD (MY APPLICATIONS) ---
+            print("[*] Waiting for initial login redirect...")
             page.wait_for_url("**/dashboard**", timeout=10000) 
             
-            # THE RACE CONDITION FIX:
-            print("[*] Allowing DOM to mount initial skeleton state...")
-            page.wait_for_timeout(2000) # Give the frontend 2 seconds to paint the skeletons
+            print("[*] Forcing navigation to My Applications view...")
+            page.goto("https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/my-applications")
+            
+            print("[*] Waiting for network API calls to fetch table data...")
+            page.wait_for_load_state("networkidle")
             
             print("[*] Actively monitoring DOM for skeleton loaders to vanish...")
             page.wait_for_function(
@@ -134,20 +138,16 @@ def capture_session():
                 timeout=45000 
             )
             
-            # Tiny buffer for the final text nodes to populate
-            page.wait_for_timeout(1500) 
+            # A final, hard buffer to guarantee React has painted the data into the DOM
+            page.wait_for_timeout(3000) 
             
-            print("[+] UI fully stabilized. Extracting browser state.")
-            os.makedirs(os.path.dirname(AUTH_FILE_PATH), exist_ok=True)
-            context.storage_state(path=AUTH_FILE_PATH)
+            print("[+] UI fully stabilized.")
+            extract_page_data(page, "dashboard")
             
-            print("[+] Authentication successful. Extracting browser state.")
+            # Secure the session state for future single-page testing
             os.makedirs(os.path.dirname(AUTH_FILE_PATH), exist_ok=True)
             context.storage_state(path=AUTH_FILE_PATH)
             print(f"[+] Session saved securely to: {AUTH_FILE_PATH}")
-            
-            # THE FIX: Trigger the data and visual extraction immediately after auth
-            extract_page_data(page, "dashboard")
                 
         except Exception as e:
             print(f"\n[-] Extraction failed: {e}")
