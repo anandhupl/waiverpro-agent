@@ -36,6 +36,7 @@ python backend/inject_supabase.py
 
 
 **5. Autonomous Evaluation**
+
 Runs the rulebook against the captured UI states. Generates the final Markdown discrepancy report and draws bounding boxes on violation screenshots.
 
 ```
