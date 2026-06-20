@@ -99,7 +99,8 @@ def capture_session():
             # --- STOP 1: THE LANDING PAGE ---
             print(f"[*] Navigating to {TARGET_URL}")
             page.goto(TARGET_URL)
-            page.wait_for_timeout(4000) # Let animations settle
+            page.wait_for_load_state("networkidle") # Wait for all images/assets to download
+            page.wait_for_timeout(1000) # Brief 1s buffer for final CSS animations to settle
             extract_page_data(page, "landing_page")
             
             # --- STOP 2: THE LOGIN SCREEN ---
@@ -109,7 +110,8 @@ def capture_session():
             entry_locator.click()
             
             print("[*] Waiting for the login screen to render...")
-            page.wait_for_timeout(3000)
+            page.wait_for_load_state("networkidle") # Ensure login page assets are loaded
+            page.wait_for_timeout(1000)
             extract_page_data(page, "login_page")
 
             # --- THE AUTHENTICATION INJECTION ---
@@ -143,11 +145,75 @@ def capture_session():
             
             print("[+] UI fully stabilized.")
             extract_page_data(page, "dashboard")
+
+            # --- STOP 4: USER MANAGEMENT ---
+            print("\n[*] Navigating to User Management view...")
+            page.goto("https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/user-management")
+            page.wait_for_load_state("networkidle")
+            page.wait_for_function('document.querySelectorAll(".animate-pulse").length === 0', timeout=45000)
+            page.wait_for_timeout(2000) # Buffer for React painting
+            extract_page_data(page, "user_management")
+
+            # --- STOP 5: SUPPORT TICKETS ---
+            print("\n[*] Navigating to Support Tickets view...")
+            page.goto("https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/tickets")
+            page.wait_for_load_state("networkidle")
+            page.wait_for_timeout(2000)
+            extract_page_data(page, "support_tickets")
+
+            # --- STOP 6: SETTINGS ---
+            print("\n[*] Navigating to Settings view...")
+            page.goto("https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/settings")
+            page.wait_for_load_state("networkidle")
+            page.wait_for_timeout(2000)
+            extract_page_data(page, "settings")
+
+            # --- STOP 6.5: FACILITIES ---
+            print("\n[*] Navigating to Facilities view...")
+            page.goto("https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/facilities")
+            page.wait_for_load_state("networkidle")
+            page.wait_for_timeout(2000)
+            extract_page_data(page, "facilities")
+
+            # --- STOP 6.6: ACTION ITEMS ---
+            print("\n[*] Navigating to Action Items view...")
+            page.goto("https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/action-items")
+            page.wait_for_load_state("networkidle")
+            page.wait_for_timeout(2000)
+            extract_page_data(page, "action_items")
+
+            # --- STOP 7: PROFILE OVERLAY/VIEW ---
+            print("\n[*] Opening Profile Modal/Page...")
+            try:
+                avatar_btn = page.locator("button:has(div.rounded-full), img.rounded-full, button[aria-label*='profile' i]").first
+                if avatar_btn.is_visible():
+                    avatar_btn.click()
+                    page.wait_for_timeout(2000) # Wait for animation
+            except Exception as inner_e:
+                print(f"[-] Could not click avatar for profile drop-down: {inner_e}")
+            
+            extract_page_data(page, "profile")
+            
+            # --- STOP 8: NEW APPLICATION MODAL ---
+            print("\n[*] Opening New Application Panel...")
+            # Force close the profile dropdown by clicking the background, or just reload the dashboard
+            page.goto("https://white-cliff-0bca3ed00.1.azurestaticapps.net/dashboard/my-applications")
+            page.wait_for_load_state("networkidle")
+            page.wait_for_timeout(2000)
+
+            # Locate and click the "+ New Application" or "+ New Waiver Request" button
+            new_app_btn = page.locator("text=/\\+ New Application|\\+ New Waiver Request/i").first
+            new_app_btn.wait_for(state="visible", timeout=5000)
+            new_app_btn.click()
+            
+            # Wait for the side-panel/modal to animate and render completely
+            page.wait_for_timeout(3000)
+            extract_page_data(page, "new_application_modal")
             
             # Secure the session state for future single-page testing
             os.makedirs(os.path.dirname(AUTH_FILE_PATH), exist_ok=True)
             context.storage_state(path=AUTH_FILE_PATH)
-            print(f"[+] Session saved securely to: {AUTH_FILE_PATH}")
+            print(f"\n[+] Session saved securely to: {AUTH_FILE_PATH}")
                 
         except Exception as e:
             print(f"\n[-] Extraction failed: {e}")

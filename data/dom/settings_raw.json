@@ -1,0 +1,2511 @@
+{
+  "tag": "body",
+  "text": "",
+  "attributes": {},
+  "boundingBox": {
+    "x": 0,
+    "y": 0,
+    "width": 1280,
+    "height": 1659
+  },
+  "children": [
+    {
+      "tag": "div",
+      "text": "",
+      "attributes": {
+        "id": "root"
+      },
+      "boundingBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1659
+      },
+      "children": [
+        {
+          "tag": "div",
+          "text": "",
+          "attributes": {},
+          "boundingBox": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 1659
+          },
+          "children": [
+            {
+              "tag": "div",
+              "text": "",
+              "attributes": {
+                "class": "min-h-screen flex flex-col bg-[#FAFAFA]"
+              },
+              "boundingBox": {
+                "x": 0,
+                "y": 0,
+                "width": 1280,
+                "height": 1659
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "text": "",
+                  "attributes": {
+                    "class": "flex flex-1"
+                  },
+                  "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1280,
+                    "height": 1659
+                  },
+                  "children": [
+                    {
+                      "tag": "aside",
+                      "text": "",
+                      "attributes": {
+                        "class": "w-64 bg-[#FAFAFA] h-screen sticky top-0 overflow-auto"
+                      },
+                      "boundingBox": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 256,
+                        "height": 720
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "text": "",
+                          "attributes": {
+                            "class": "flex flex-col h-full"
+                          },
+                          "boundingBox": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 256,
+                            "height": 720
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "class": "p-6"
+                              },
+                              "boundingBox": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 256,
+                                "height": 160
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "flex items-center gap-3\n              cursor-pointer"
+                                  },
+                                  "boundingBox": {
+                                    "x": 24,
+                                    "y": 24,
+                                    "width": 208,
+                                    "height": 60
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "w-9 h-9 bg-primary rounded-lg flex items-center justify-center"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 36,
+                                        "width": 34,
+                                        "height": 36
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "svg",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "lucide lucide-gallery-vertical-end h-5 w-5 text-primary-foreground"
+                                          },
+                                          "boundingBox": {
+                                            "x": 31,
+                                            "y": 44,
+                                            "width": 20,
+                                            "height": 20
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "rect",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 34,
+                                                "y": 52,
+                                                "width": 15,
+                                                "height": 10
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 70,
+                                        "y": 24,
+                                        "width": 162,
+                                        "height": 60
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "text": "WaiverPro",
+                                          "attributes": {
+                                            "class": "font-bold text-lg"
+                                          },
+                                          "boundingBox": {
+                                            "x": 70,
+                                            "y": 24,
+                                            "width": 162,
+                                            "height": 28
+                                          },
+                                          "children": []
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "Healthcare Waiver Management",
+                                          "attributes": {
+                                            "class": "text-xs text-muted-foreground"
+                                          },
+                                          "boundingBox": {
+                                            "x": 70,
+                                            "y": 52,
+                                            "width": 162,
+                                            "height": 32
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "mt-4"
+                                  },
+                                  "boundingBox": {
+                                    "x": 24,
+                                    "y": 100,
+                                    "width": 208,
+                                    "height": 36
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "button",
+                                      "text": "+ New Application",
+                                      "attributes": {
+                                        "class": "inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive h-9 px-4 py-2 has-[>svg]:px-3 w-full justify-center bg-emerald-600 hover:bg-emerald-700 text-white",
+                                        "id": "tour-new-application"
+                                      },
+                                      "boundingBox": {
+                                        "x": 24,
+                                        "y": 100,
+                                        "width": 208,
+                                        "height": 36
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "nav",
+                              "text": "",
+                              "attributes": {
+                                "class": "flex-1 px-4 space-y-2"
+                              },
+                              "boundingBox": {
+                                "x": 0,
+                                "y": 160,
+                                "width": 256,
+                                "height": 560
+                              },
+                              "children": [
+                                {
+                                  "tag": "a",
+                                  "text": "",
+                                  "attributes": {
+                                    "id": "tour-applications",
+                                    "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50",
+                                    "href": "/dashboard/my-applications"
+                                  },
+                                  "boundingBox": {
+                                    "x": 16,
+                                    "y": 160,
+                                    "width": 224,
+                                    "height": 40
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 28,
+                                        "y": 172,
+                                        "width": 16,
+                                        "height": 16
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "svg",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "lucide lucide-house h-4 w-4"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 172,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 34,
+                                                "y": 180,
+                                                "width": 4,
+                                                "height": 6
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 30,
+                                                "y": 173,
+                                                "width": 12,
+                                                "height": 13
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "span",
+                                      "text": "My Applications",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 56,
+                                        "y": 168,
+                                        "width": 113,
+                                        "height": 24
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "text": "",
+                                  "attributes": {
+                                    "id": "tour-facilities",
+                                    "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50",
+                                    "href": "/dashboard/facilities"
+                                  },
+                                  "boundingBox": {
+                                    "x": 16,
+                                    "y": 208,
+                                    "width": 224,
+                                    "height": 40
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 28,
+                                        "y": 220,
+                                        "width": 16,
+                                        "height": 16
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "svg",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "lucide lucide-users h-4 w-4"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 220,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 29,
+                                                "y": 230,
+                                                "width": 9,
+                                                "height": 4
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 39,
+                                                "y": 222,
+                                                "width": 2,
+                                                "height": 5
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 41,
+                                                "y": 230,
+                                                "width": 2,
+                                                "height": 4
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "circle",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 31,
+                                                "y": 222,
+                                                "width": 5,
+                                                "height": 5
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "span",
+                                      "text": "Facilities",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 56,
+                                        "y": 216,
+                                        "width": 59,
+                                        "height": 24
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "text": "",
+                                  "attributes": {
+                                    "id": "tour-action-items",
+                                    "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50",
+                                    "href": "/dashboard/action-items"
+                                  },
+                                  "boundingBox": {
+                                    "x": 16,
+                                    "y": 256,
+                                    "width": 224,
+                                    "height": 40
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 28,
+                                        "y": 268,
+                                        "width": 16,
+                                        "height": 16
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "svg",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "lucide lucide-list-todo h-4 w-4"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 268,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 30,
+                                                "y": 278,
+                                                "width": 4,
+                                                "height": 3
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "rect",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 30,
+                                                "y": 271,
+                                                "width": 4,
+                                                "height": 4
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "span",
+                                      "text": "Action Items",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 56,
+                                        "y": 264,
+                                        "width": 88,
+                                        "height": 24
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50",
+                                    "href": "/dashboard/user-management"
+                                  },
+                                  "boundingBox": {
+                                    "x": 16,
+                                    "y": 304,
+                                    "width": 224,
+                                    "height": 40
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 28,
+                                        "y": 316,
+                                        "width": 16,
+                                        "height": 16
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "svg",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "lucide lucide-users h-4 w-4"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 316,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 29,
+                                                "y": 326,
+                                                "width": 9,
+                                                "height": 4
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 39,
+                                                "y": 318,
+                                                "width": 2,
+                                                "height": 5
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 41,
+                                                "y": 326,
+                                                "width": 2,
+                                                "height": 4
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "circle",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 31,
+                                                "y": 318,
+                                                "width": 5,
+                                                "height": 5
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "span",
+                                      "text": "User Management",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 56,
+                                        "y": 312,
+                                        "width": 130,
+                                        "height": 24
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "text": "",
+                                  "attributes": {
+                                    "id": "tour-announcements",
+                                    "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50",
+                                    "href": "/dashboard/announcements"
+                                  },
+                                  "boundingBox": {
+                                    "x": 16,
+                                    "y": 352,
+                                    "width": 224,
+                                    "height": 40
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 28,
+                                        "y": 364,
+                                        "width": 16,
+                                        "height": 16
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "svg",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "lucide lucide-megaphone h-4 w-4"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 364,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 30,
+                                                "y": 366,
+                                                "width": 12,
+                                                "height": 9
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "path",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 32,
+                                                "y": 373,
+                                                "width": 4,
+                                                "height": 5
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "span",
+                                      "text": "Announcements",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 56,
+                                        "y": 360,
+                                        "width": 115,
+                                        "height": 24
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "a",
+                                  "text": "",
+                                  "attributes": {
+                                    "id": "tour-settings",
+                                    "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg bg-[#F5F5F5]",
+                                    "href": "/dashboard/settings"
+                                  },
+                                  "boundingBox": {
+                                    "x": 16,
+                                    "y": 400,
+                                    "width": 224,
+                                    "height": 40
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "span",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                      },
+                                      "boundingBox": {
+                                        "x": 28,
+                                        "y": 412,
+                                        "width": 16,
+                                        "height": 16
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "svg",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "lucide lucide-settings2 lucide-settings-2 h-4 w-4"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 412,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "circle",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 37,
+                                                "y": 421,
+                                                "width": 4,
+                                                "height": 4
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "circle",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 31,
+                                                "y": 415,
+                                                "width": 4,
+                                                "height": 4
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "span",
+                                      "text": "Settings",
+                                      "attributes": {},
+                                      "boundingBox": {
+                                        "x": 56,
+                                        "y": 408,
+                                        "width": 57,
+                                        "height": 24
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "Support",
+                                  "attributes": {
+                                    "class": "pt-4 text-xs text-muted-foreground"
+                                  },
+                                  "boundingBox": {
+                                    "x": 16,
+                                    "y": 448,
+                                    "width": 224,
+                                    "height": 32
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "id": "tour-support",
+                                    "class": "mt-2 space-y-1"
+                                  },
+                                  "boundingBox": {
+                                    "x": 16,
+                                    "y": 488,
+                                    "width": 224,
+                                    "height": 172
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "a",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50",
+                                        "href": "/dashboard/faqs"
+                                      },
+                                      "boundingBox": {
+                                        "x": 16,
+                                        "y": 488,
+                                        "width": 224,
+                                        "height": 40
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "span",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 500,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-circle-question-mark h-4 w-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 28,
+                                                "y": 500,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "circle",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 29,
+                                                    "y": 501,
+                                                    "width": 13,
+                                                    "height": 13
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 34,
+                                                    "y": 505,
+                                                    "width": 4,
+                                                    "height": 4
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "span",
+                                          "text": "FAQs",
+                                          "attributes": {},
+                                          "boundingBox": {
+                                            "x": 56,
+                                            "y": 496,
+                                            "width": 36,
+                                            "height": 24
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "a",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50",
+                                        "href": "/dashboard/tickets"
+                                      },
+                                      "boundingBox": {
+                                        "x": 16,
+                                        "y": 532,
+                                        "width": 224,
+                                        "height": 40
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "span",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 544,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-ticket-check h-4 w-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 28,
+                                                "y": 544,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 29,
+                                                    "y": 547,
+                                                    "width": 13,
+                                                    "height": 9
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 34,
+                                                    "y": 551,
+                                                    "width": 4,
+                                                    "height": 3
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "span",
+                                          "text": "Tickets",
+                                          "attributes": {},
+                                          "boundingBox": {
+                                            "x": 56,
+                                            "y": 540,
+                                            "width": 48,
+                                            "height": 24
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "a",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50",
+                                        "href": "/dashboard/contact"
+                                      },
+                                      "boundingBox": {
+                                        "x": 16,
+                                        "y": 576,
+                                        "width": 224,
+                                        "height": 40
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "span",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 588,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-phone h-4 w-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 28,
+                                                "y": 588,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 29,
+                                                    "y": 589,
+                                                    "width": 13,
+                                                    "height": 13
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "span",
+                                          "text": "Contact",
+                                          "attributes": {},
+                                          "boundingBox": {
+                                            "x": 56,
+                                            "y": 584,
+                                            "width": 55,
+                                            "height": 24
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "button",
+                                      "text": "Take a Tour",
+                                      "attributes": {
+                                        "id": "tour-take-a-tour",
+                                        "class": "flex items-center gap-3 w-full justify-start px-3 py-2 rounded-lg hover:bg-gray-50"
+                                      },
+                                      "boundingBox": {
+                                        "x": 16,
+                                        "y": 620,
+                                        "width": 224,
+                                        "height": 40
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "span",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "h-4 w-4 flex items-center text-muted-foreground"
+                                          },
+                                          "boundingBox": {
+                                            "x": 28,
+                                            "y": 632,
+                                            "width": 16,
+                                            "height": 16
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "svg",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "lucide lucide-compass h-4 w-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 28,
+                                                "y": 632,
+                                                "width": 16,
+                                                "height": 16
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "path",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 33,
+                                                    "y": 637,
+                                                    "width": 6,
+                                                    "height": 6
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "circle",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 29,
+                                                    "y": 633,
+                                                    "width": 13,
+                                                    "height": 13
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "text": "",
+                      "attributes": {
+                        "class": "flex-1 flex flex-col overflow-auto"
+                      },
+                      "boundingBox": {
+                        "x": 256,
+                        "y": 0,
+                        "width": 1024,
+                        "height": 1659
+                      },
+                      "children": [
+                        {
+                          "tag": "main",
+                          "text": "",
+                          "attributes": {
+                            "class": "flex-1 py-3 pr-6"
+                          },
+                          "boundingBox": {
+                            "x": 256,
+                            "y": 0,
+                            "width": 1024,
+                            "height": 1659
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "text": "",
+                              "attributes": {
+                                "class": "bg-white rounded-xl shadow-sm p-6 min-h-full"
+                              },
+                              "boundingBox": {
+                                "x": 256,
+                                "y": 12,
+                                "width": 1000,
+                                "height": 1635
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "text": "",
+                                  "attributes": {
+                                    "class": "space-y-6"
+                                  },
+                                  "boundingBox": {
+                                    "x": 280,
+                                    "y": 36,
+                                    "width": 952,
+                                    "height": 1587
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "-mx-6 px-6 border-b pb-4 mb-6"
+                                      },
+                                      "boundingBox": {
+                                        "x": 256,
+                                        "y": 36,
+                                        "width": 1000,
+                                        "height": 73
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "flex items-center justify-between"
+                                          },
+                                          "boundingBox": {
+                                            "x": 280,
+                                            "y": 36,
+                                            "width": 952,
+                                            "height": 56
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {},
+                                              "boundingBox": {
+                                                "x": 280,
+                                                "y": 36,
+                                                "width": 238,
+                                                "height": 56
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "h1",
+                                                  "text": "Settings",
+                                                  "attributes": {
+                                                    "class": "text-2xl font-semibold text-gray-900"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 280,
+                                                    "y": 36,
+                                                    "width": 238,
+                                                    "height": 32
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "p",
+                                                  "text": "Manage your account and preferences",
+                                                  "attributes": {
+                                                    "class": "text-sm text-muted-foreground mt-1"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 280,
+                                                    "y": 72,
+                                                    "width": 238,
+                                                    "height": 20
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "flex items-center gap-3"
+                                              },
+                                              "boundingBox": {
+                                                "x": 1152,
+                                                "y": 46,
+                                                "width": 80,
+                                                "height": 36
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "button",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:text-accent-foreground dark:hover:bg-accent/50 size-9 relative hover:bg-gray-100",
+                                                    "id": "tour-notifications",
+                                                    "type": "button"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 1152,
+                                                    "y": 46,
+                                                    "width": 36,
+                                                    "height": 36
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "svg",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "lucide lucide-bell h-5 w-5 text-gray-700"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 1162,
+                                                        "y": 56,
+                                                        "width": 16,
+                                                        "height": 16
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "path",
+                                                          "text": "",
+                                                          "attributes": {},
+                                                          "boundingBox": {
+                                                            "x": 1169,
+                                                            "y": 70,
+                                                            "width": 2,
+                                                            "height": 1
+                                                          },
+                                                          "children": []
+                                                        },
+                                                        {
+                                                          "tag": "path",
+                                                          "text": "",
+                                                          "attributes": {},
+                                                          "boundingBox": {
+                                                            "x": 1164,
+                                                            "y": 57,
+                                                            "width": 12,
+                                                            "height": 10
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "span",
+                                                      "text": "12",
+                                                      "attributes": {
+                                                        "class": "absolute top-0 right-0 inline-flex items-center justify-center h-5 w-5 rounded-full bg-emerald-600 text-white text-xs font-medium"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 1168,
+                                                        "y": 46,
+                                                        "width": 20,
+                                                        "height": 20
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "button",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive hover:text-accent-foreground dark:hover:bg-accent/50 has-[>svg]:px-3 h-auto p-0 hover:bg-transparent",
+                                                    "type": "button"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 1200,
+                                                    "y": 48,
+                                                    "width": 32,
+                                                    "height": 32
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "span",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "relative flex size-8 shrink-0 overflow-hidden rounded-full h-8 w-8 cursor-pointer"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 1200,
+                                                        "y": 48,
+                                                        "width": 32,
+                                                        "height": 32
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "AD",
+                                                          "attributes": {
+                                                            "class": "flex size-full items-center justify-center rounded-full bg-gray-900 text-white font-medium text-xs"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 1200,
+                                                            "y": 48,
+                                                            "width": 32,
+                                                            "height": 32
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "text": "",
+                                      "attributes": {
+                                        "class": "space-y-6"
+                                      },
+                                      "boundingBox": {
+                                        "x": 280,
+                                        "y": 133,
+                                        "width": 952,
+                                        "height": 1490
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "text-card-foreground flex flex-col gap-6 rounded-xl border shadow-sm p-6 bg-emerald-50 border-emerald-200"
+                                          },
+                                          "boundingBox": {
+                                            "x": 280,
+                                            "y": 133,
+                                            "width": 952,
+                                            "height": 94
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "flex items-center gap-3"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 158,
+                                                "width": 902,
+                                                "height": 44
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "text": "P",
+                                                  "attributes": {
+                                                    "class": "h-10 w-10 rounded-lg bg-emerald-600 flex items-center justify-center text-white font-bold text-lg"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 160,
+                                                    "width": 40,
+                                                    "height": 40
+                                                  },
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {},
+                                                  "boundingBox": {
+                                                    "x": 357,
+                                                    "y": 158,
+                                                    "width": 125,
+                                                    "height": 44
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "p",
+                                                      "text": "Organisation",
+                                                      "attributes": {
+                                                        "class": "text-xs text-muted-foreground font-medium uppercase tracking-wide"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 357,
+                                                        "y": 158,
+                                                        "width": 125,
+                                                        "height": 16
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "h3",
+                                                      "text": "Partner Sample",
+                                                      "attributes": {
+                                                        "class": "text-lg font-semibold"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 357,
+                                                        "y": 174,
+                                                        "width": 125,
+                                                        "height": 28
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "bg-card text-card-foreground flex flex-col gap-6 rounded-xl border shadow-sm p-6"
+                                          },
+                                          "boundingBox": {
+                                            "x": 280,
+                                            "y": 250,
+                                            "width": 952,
+                                            "height": 400
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "h3",
+                                              "text": "Profile Information",
+                                              "attributes": {
+                                                "class": "text-lg font-semibold mb-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 275,
+                                                "width": 902,
+                                                "height": 28
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "form",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "space-y-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 343,
+                                                "width": 902,
+                                                "height": 282
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "grid grid-cols-2 gap-4"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 343,
+                                                    "width": 902,
+                                                    "height": 58
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "space-y-2"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 343,
+                                                        "width": 443,
+                                                        "height": 58
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "label",
+                                                          "text": "First Name",
+                                                          "attributes": {
+                                                            "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 343,
+                                                            "width": 443,
+                                                            "height": 14
+                                                          },
+                                                          "children": []
+                                                        },
+                                                        {
+                                                          "tag": "input",
+                                                          "text": "",
+                                                          "attributes": {
+                                                            "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+                                                            "id": "firstName"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 365,
+                                                            "width": 443,
+                                                            "height": 36
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "div",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "space-y-2"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 764,
+                                                        "y": 343,
+                                                        "width": 443,
+                                                        "height": 58
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "label",
+                                                          "text": "Last Name",
+                                                          "attributes": {
+                                                            "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 764,
+                                                            "y": 343,
+                                                            "width": 443,
+                                                            "height": 14
+                                                          },
+                                                          "children": []
+                                                        },
+                                                        {
+                                                          "tag": "input",
+                                                          "text": "",
+                                                          "attributes": {
+                                                            "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+                                                            "id": "lastName"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 764,
+                                                            "y": 365,
+                                                            "width": 443,
+                                                            "height": 36
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "space-y-2"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 417,
+                                                    "width": 902,
+                                                    "height": 82
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "label",
+                                                      "text": "Email",
+                                                      "attributes": {
+                                                        "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 417,
+                                                        "width": 902,
+                                                        "height": 14
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "input",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-muted cursor-not-allowed",
+                                                        "id": "email",
+                                                        "type": "email"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 439,
+                                                        "width": 902,
+                                                        "height": 36
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "p",
+                                                      "text": "Email address cannot be changed",
+                                                      "attributes": {
+                                                        "class": "text-xs text-muted-foreground"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 483,
+                                                        "width": 902,
+                                                        "height": 16
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "space-y-2"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 515,
+                                                    "width": 902,
+                                                    "height": 58
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "label",
+                                                      "text": "Phone Number",
+                                                      "attributes": {
+                                                        "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 515,
+                                                        "width": 902,
+                                                        "height": 14
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "input",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+                                                        "id": "phone",
+                                                        "type": "tel"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 537,
+                                                        "width": 902,
+                                                        "height": 36
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "button",
+                                                  "text": "Save Changes",
+                                                  "attributes": {
+                                                    "class": "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive text-primary-foreground h-9 px-4 py-2 has-[>svg]:px-3 bg-emerald-600 hover:bg-emerald-700",
+                                                    "type": "submit"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 589,
+                                                    "width": 119,
+                                                    "height": 36
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "bg-card text-card-foreground flex flex-col gap-6 rounded-xl border shadow-sm p-6"
+                                          },
+                                          "boundingBox": {
+                                            "x": 280,
+                                            "y": 674,
+                                            "width": 952,
+                                            "height": 252
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "h3",
+                                              "text": "Notifications",
+                                              "attributes": {
+                                                "class": "text-lg font-semibold mb-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 699,
+                                                "width": 902,
+                                                "height": 28
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "space-y-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 767,
+                                                "width": 902,
+                                                "height": 134
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "flex items-center justify-between"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 767,
+                                                    "width": 902,
+                                                    "height": 34
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 767,
+                                                        "width": 250,
+                                                        "height": 34
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "label",
+                                                          "text": "Email Notifications",
+                                                          "attributes": {
+                                                            "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 767,
+                                                            "width": 250,
+                                                            "height": 14
+                                                          },
+                                                          "children": []
+                                                        },
+                                                        {
+                                                          "tag": "p",
+                                                          "text": "Receive updates about your applications",
+                                                          "attributes": {
+                                                            "class": "text-sm text-muted-foreground"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 781,
+                                                            "width": 250,
+                                                            "height": 20
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "type": "button",
+                                                        "class": "peer data-[state=checked]:bg-primary data-[state=unchecked]:bg-input focus-visible:border-ring focus-visible:ring-ring/50 dark:data-[state=unchecked]:bg-input/80 inline-flex h-[1.15rem] w-8 shrink-0 items-center rounded-full border border-transparent shadow-xs transition-all outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50",
+                                                        "id": "emailNotif"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 1175,
+                                                        "y": 775,
+                                                        "width": 32,
+                                                        "height": 18
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "",
+                                                          "attributes": {
+                                                            "class": "bg-background dark:data-[state=unchecked]:bg-foreground dark:data-[state=checked]:bg-primary-foreground pointer-events-none block size-4 rounded-full ring-0 transition-transform data-[state=checked]:translate-x-[calc(100%-2px)] data-[state=unchecked]:translate-x-0"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 1190,
+                                                            "y": 776,
+                                                            "width": 16,
+                                                            "height": 16
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "flex items-center justify-between"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 817,
+                                                    "width": 902,
+                                                    "height": 34
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 817,
+                                                        "width": 277,
+                                                        "height": 34
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "label",
+                                                          "text": "Status Updates",
+                                                          "attributes": {
+                                                            "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 817,
+                                                            "width": 277,
+                                                            "height": 14
+                                                          },
+                                                          "children": []
+                                                        },
+                                                        {
+                                                          "tag": "p",
+                                                          "text": "Get notified when application status changes",
+                                                          "attributes": {
+                                                            "class": "text-sm text-muted-foreground"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 831,
+                                                            "width": 277,
+                                                            "height": 20
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "type": "button",
+                                                        "class": "peer data-[state=checked]:bg-primary data-[state=unchecked]:bg-input focus-visible:border-ring focus-visible:ring-ring/50 dark:data-[state=unchecked]:bg-input/80 inline-flex h-[1.15rem] w-8 shrink-0 items-center rounded-full border border-transparent shadow-xs transition-all outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50",
+                                                        "id": "statusUpdates"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 1175,
+                                                        "y": 825,
+                                                        "width": 32,
+                                                        "height": 18
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "",
+                                                          "attributes": {
+                                                            "class": "bg-background dark:data-[state=unchecked]:bg-foreground dark:data-[state=checked]:bg-primary-foreground pointer-events-none block size-4 rounded-full ring-0 transition-transform data-[state=checked]:translate-x-[calc(100%-2px)] data-[state=unchecked]:translate-x-0"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 1190,
+                                                            "y": 826,
+                                                            "width": 16,
+                                                            "height": 16
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "flex items-center justify-between"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 867,
+                                                    "width": 902,
+                                                    "height": 34
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 867,
+                                                        "width": 243,
+                                                        "height": 34
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "label",
+                                                          "text": "Action Items",
+                                                          "attributes": {
+                                                            "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 867,
+                                                            "width": 243,
+                                                            "height": 14
+                                                          },
+                                                          "children": []
+                                                        },
+                                                        {
+                                                          "tag": "p",
+                                                          "text": "Alerts for tasks requiring your attention",
+                                                          "attributes": {
+                                                            "class": "text-sm text-muted-foreground"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 881,
+                                                            "width": 243,
+                                                            "height": 20
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "type": "button",
+                                                        "class": "peer data-[state=checked]:bg-primary data-[state=unchecked]:bg-input focus-visible:border-ring focus-visible:ring-ring/50 dark:data-[state=unchecked]:bg-input/80 inline-flex h-[1.15rem] w-8 shrink-0 items-center rounded-full border border-transparent shadow-xs transition-all outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50",
+                                                        "id": "actionItems"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 1175,
+                                                        "y": 875,
+                                                        "width": 32,
+                                                        "height": 18
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "",
+                                                          "attributes": {
+                                                            "class": "bg-background dark:data-[state=unchecked]:bg-foreground dark:data-[state=checked]:bg-primary-foreground pointer-events-none block size-4 rounded-full ring-0 transition-transform data-[state=checked]:translate-x-[calc(100%-2px)] data-[state=unchecked]:translate-x-0"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 1190,
+                                                            "y": 876,
+                                                            "width": 16,
+                                                            "height": 16
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "bg-card text-card-foreground flex flex-col gap-6 rounded-xl border shadow-sm p-6"
+                                          },
+                                          "boundingBox": {
+                                            "x": 280,
+                                            "y": 950,
+                                            "width": 952,
+                                            "height": 400
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "h3",
+                                              "text": "Security",
+                                              "attributes": {
+                                                "class": "text-lg font-semibold mb-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 974,
+                                                "width": 902,
+                                                "height": 28
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "form",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "space-y-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 1042,
+                                                "width": 902,
+                                                "height": 282
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "space-y-2"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 1042,
+                                                    "width": 902,
+                                                    "height": 58
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "label",
+                                                      "text": "Current Password",
+                                                      "attributes": {
+                                                        "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1042,
+                                                        "width": 902,
+                                                        "height": 14
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "input",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+                                                        "id": "currentPassword",
+                                                        "type": "password"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1064,
+                                                        "width": 902,
+                                                        "height": 36
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "space-y-2"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 1116,
+                                                    "width": 902,
+                                                    "height": 82
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "label",
+                                                      "text": "New Password",
+                                                      "attributes": {
+                                                        "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1116,
+                                                        "width": 902,
+                                                        "height": 14
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "input",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+                                                        "id": "newPassword",
+                                                        "placeholder": "At least 6 characters",
+                                                        "type": "password"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1138,
+                                                        "width": 902,
+                                                        "height": 36
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "p",
+                                                      "text": "Password must be at least 6 characters long",
+                                                      "attributes": {
+                                                        "class": "text-xs text-muted-foreground"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1182,
+                                                        "width": 902,
+                                                        "height": 16
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "space-y-2"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 1214,
+                                                    "width": 902,
+                                                    "height": 58
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "label",
+                                                      "text": "Confirm New Password",
+                                                      "attributes": {
+                                                        "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1214,
+                                                        "width": 902,
+                                                        "height": 14
+                                                      },
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "tag": "input",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "class": "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm focus-visible:border-emerald-600 focus-visible:ring-emerald-600/20 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+                                                        "id": "confirmPassword",
+                                                        "type": "password"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1236,
+                                                        "width": 902,
+                                                        "height": 36
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "button",
+                                                  "text": "Change Password",
+                                                  "attributes": {
+                                                    "class": "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 h-9 px-4 py-2 has-[>svg]:px-3",
+                                                    "type": "submit"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 1288,
+                                                    "width": 145,
+                                                    "height": 36
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "text": "",
+                                          "attributes": {
+                                            "class": "bg-card text-card-foreground flex flex-col gap-6 rounded-xl border shadow-sm p-6"
+                                          },
+                                          "boundingBox": {
+                                            "x": 280,
+                                            "y": 1373,
+                                            "width": 952,
+                                            "height": 250
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "h3",
+                                              "text": "Features",
+                                              "attributes": {
+                                                "class": "text-lg font-semibold mb-1"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 1398,
+                                                "width": 902,
+                                                "height": 28
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "p",
+                                              "text": "Toggle experimental or upcoming features",
+                                              "attributes": {
+                                                "class": "text-sm text-muted-foreground mb-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 1454,
+                                                "width": 902,
+                                                "height": 20
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "text": "",
+                                              "attributes": {
+                                                "class": "space-y-4"
+                                              },
+                                              "boundingBox": {
+                                                "x": 305,
+                                                "y": 1514,
+                                                "width": 902,
+                                                "height": 84
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "flex items-center justify-between"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 1514,
+                                                    "width": 902,
+                                                    "height": 34
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1514,
+                                                        "width": 372,
+                                                        "height": 34
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "label",
+                                                          "text": "Facilities Status Tracking",
+                                                          "attributes": {
+                                                            "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 1514,
+                                                            "width": 372,
+                                                            "height": 14
+                                                          },
+                                                          "children": []
+                                                        },
+                                                        {
+                                                          "tag": "p",
+                                                          "text": "Show application due dates and status on the Facilities page",
+                                                          "attributes": {
+                                                            "class": "text-sm text-muted-foreground"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 1528,
+                                                            "width": 372,
+                                                            "height": 20
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "type": "button",
+                                                        "class": "peer data-[state=checked]:bg-primary data-[state=unchecked]:bg-input focus-visible:border-ring focus-visible:ring-ring/50 dark:data-[state=unchecked]:bg-input/80 inline-flex h-[1.15rem] w-8 shrink-0 items-center rounded-full border border-transparent shadow-xs transition-all outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50",
+                                                        "id": "safetyPlanFlag"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 1175,
+                                                        "y": 1522,
+                                                        "width": 32,
+                                                        "height": 18
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "",
+                                                          "attributes": {
+                                                            "class": "bg-background dark:data-[state=unchecked]:bg-foreground dark:data-[state=checked]:bg-primary-foreground pointer-events-none block size-4 rounded-full ring-0 transition-transform data-[state=checked]:translate-x-[calc(100%-2px)] data-[state=unchecked]:translate-x-0"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 1190,
+                                                            "y": 1523,
+                                                            "width": 16,
+                                                            "height": 16
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "text": "",
+                                                  "attributes": {
+                                                    "class": "flex items-center justify-between"
+                                                  },
+                                                  "boundingBox": {
+                                                    "x": 305,
+                                                    "y": 1564,
+                                                    "width": 902,
+                                                    "height": 34
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "div",
+                                                      "text": "",
+                                                      "attributes": {},
+                                                      "boundingBox": {
+                                                        "x": 305,
+                                                        "y": 1564,
+                                                        "width": 463,
+                                                        "height": 34
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "label",
+                                                          "text": "FAQ Assistant Chatbot",
+                                                          "attributes": {
+                                                            "class": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 1564,
+                                                            "width": 463,
+                                                            "height": 14
+                                                          },
+                                                          "children": []
+                                                        },
+                                                        {
+                                                          "tag": "p",
+                                                          "text": "Show the AI FAQ assistant. Off by default to avoid loading it on every page.",
+                                                          "attributes": {
+                                                            "class": "text-sm text-muted-foreground"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 305,
+                                                            "y": 1578,
+                                                            "width": 463,
+                                                            "height": 20
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag": "button",
+                                                      "text": "",
+                                                      "attributes": {
+                                                        "type": "button",
+                                                        "class": "peer data-[state=checked]:bg-primary data-[state=unchecked]:bg-input focus-visible:border-ring focus-visible:ring-ring/50 dark:data-[state=unchecked]:bg-input/80 inline-flex h-[1.15rem] w-8 shrink-0 items-center rounded-full border border-transparent shadow-xs transition-all outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50",
+                                                        "id": "chatbotFlag"
+                                                      },
+                                                      "boundingBox": {
+                                                        "x": 1175,
+                                                        "y": 1572,
+                                                        "width": 32,
+                                                        "height": 18
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "tag": "span",
+                                                          "text": "",
+                                                          "attributes": {
+                                                            "class": "bg-background dark:data-[state=unchecked]:bg-foreground dark:data-[state=checked]:bg-primary-foreground pointer-events-none block size-4 rounded-full ring-0 transition-transform data-[state=checked]:translate-x-[calc(100%-2px)] data-[state=unchecked]:translate-x-0"
+                                                          },
+                                                          "boundingBox": {
+                                                            "x": 1176,
+                                                            "y": 1573,
+                                                            "width": 16,
+                                                            "height": 16
+                                                          },
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

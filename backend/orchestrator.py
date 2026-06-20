@@ -9,15 +9,34 @@ REPORT_PATH = os.path.join(BASE_DIR, 'data/final_compliance_report.md')
 
 def determine_page_context(rule_text, element):
     """
-    A lightweight router to match the canonical rule to the correct Playwright snapshot.
+    A targeted router to map the 19 canonical rules to the 8 extracted UI states.
     """
     combined = (rule_text + " " + element).lower()
-    if "landing page" in combined or "sign in button" in combined:
+    
+    # Check for specific deep-links and modals first
+    if "new waiver application" in combined:
+        return "new_application_modal"
+    elif "facilities" in combined:
+        return "facilities"
+    elif "action items" in combined:
+        return "action_items"
+    elif "user management" in combined:
+        return "user_management"
+    elif "ticket" in combined:
+        return "support_tickets"
+    elif "settings" in combined or "faq assistant" in combined or "security" in combined:
+        return "settings"
+    elif "profile" in combined:
+        return "profile"
+    
+    # Check for authentication pages
+    elif "landing page" in combined or "sign in button" in combined:
         return "landing_page"
-    elif "password field" in combined or "login" in combined:
+    elif "password field" in combined and "security" not in combined:
         return "login_page"
+        
+    # Default fallback for core application features (sidebar, header, search, tables)
     else:
-        # The vast majority of rules apply to the primary authenticated view
         return "dashboard"
 
 def generate_markdown_report(results):

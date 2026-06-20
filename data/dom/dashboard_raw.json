@@ -1475,7 +1475,7 @@
                                               "children": [
                                                 {
                                                   "tag": "span",
-                                                  "text": "585",
+                                                  "text": "600",
                                                   "attributes": {
                                                     "class": "ml-2 text-xs rounded-full px-2 py-0.5 bg-emerald-100 text-emerald-700"
                                                   },
@@ -1498,20 +1498,20 @@
                                               "boundingBox": {
                                                 "x": 377,
                                                 "y": 113,
-                                                "width": 311,
+                                                "width": 312,
                                                 "height": 38
                                               },
                                               "children": [
                                                 {
                                                   "tag": "span",
-                                                  "text": "441",
+                                                  "text": "455",
                                                   "attributes": {
                                                     "class": "ml-2 text-xs rounded-full px-2 py-0.5 bg-gray-100 text-gray-600"
                                                   },
                                                   "boundingBox": {
                                                     "x": 637,
                                                     "y": 122,
-                                                    "width": 35,
+                                                    "width": 36,
                                                     "height": 20
                                                   },
                                                   "children": []
@@ -1525,7 +1525,7 @@
                                                 "class": "px-4 py-2 text-sm font-medium border-b-2 transition-colors whitespace-nowrap border-transparent text-muted-foreground hover:text-foreground hover:border-gray-300"
                                               },
                                               "boundingBox": {
-                                                "x": 692,
+                                                "x": 693,
                                                 "y": 113,
                                                 "width": 276,
                                                 "height": 38
@@ -1533,12 +1533,12 @@
                                               "children": [
                                                 {
                                                   "tag": "span",
-                                                  "text": "129",
+                                                  "text": "130",
                                                   "attributes": {
                                                     "class": "ml-2 text-xs rounded-full px-2 py-0.5 bg-gray-100 text-gray-600"
                                                   },
                                                   "boundingBox": {
-                                                    "x": 918,
+                                                    "x": 919,
                                                     "y": 122,
                                                     "width": 34,
                                                     "height": 20
@@ -1554,7 +1554,7 @@
                                                 "class": "px-4 py-2 text-sm font-medium border-b-2 transition-colors whitespace-nowrap border-transparent text-muted-foreground hover:text-foreground hover:border-gray-300"
                                               },
                                               "boundingBox": {
-                                                "x": 972,
+                                                "x": 974,
                                                 "y": 113,
                                                 "width": 346,
                                                 "height": 38
@@ -1567,7 +1567,7 @@
                                                     "class": "ml-2 text-xs rounded-full px-2 py-0.5 bg-gray-100 text-gray-600"
                                                   },
                                                   "boundingBox": {
-                                                    "x": 1274,
+                                                    "x": 1276,
                                                     "y": 122,
                                                     "width": 28,
                                                     "height": 20
@@ -1632,7 +1632,7 @@
                                                       "children": [
                                                         {
                                                           "tag": "span",
-                                                          "text": "585",
+                                                          "text": "600",
                                                           "attributes": {
                                                             "class": "rounded-full px-2 py-0.5 text-xs bg-green-100 text-green-800"
                                                           },
@@ -1661,7 +1661,7 @@
                                                       "children": [
                                                         {
                                                           "tag": "span",
-                                                          "text": "237",
+                                                          "text": "243",
                                                           "attributes": {
                                                             "class": "rounded-full px-2 py-0.5 text-xs bg-gray-100"
                                                           },
@@ -1690,7 +1690,7 @@
                                                       "children": [
                                                         {
                                                           "tag": "span",
-                                                          "text": "330",
+                                                          "text": "339",
                                                           "attributes": {
                                                             "class": "rounded-full px-2 py-0.5 text-xs bg-gray-100"
                                                           },
@@ -1978,7 +1978,7 @@
                                                   "boundingBox": {
                                                     "x": 281,
                                                     "y": 247,
-                                                    "width": 1035,
+                                                    "width": 1013,
                                                     "height": 504
                                                   },
                                                   "children": [
@@ -1991,7 +1991,7 @@
                                                       "boundingBox": {
                                                         "x": 281,
                                                         "y": 247,
-                                                        "width": 1035,
+                                                        "width": 1013,
                                                         "height": 40
                                                       },
                                                       "children": [
@@ -2004,7 +2004,7 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 247,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 40
                                                           },
                                                           "children": [
@@ -2017,7 +2017,7 @@
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 247,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 40
                                                               },
                                                               "children": []
@@ -2029,7 +2029,7 @@
                                                                 "class": "text-foreground h-10 px-2 text-left align-middle font-medium whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] bg-slate-50"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 247,
                                                                 "width": 250,
                                                                 "height": 40
@@ -2043,9 +2043,9 @@
                                                                 "class": "text-foreground h-10 px-2 text-left align-middle font-medium whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] bg-slate-50"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 247,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 40
                                                               },
                                                               "children": []
@@ -2057,7 +2057,7 @@
                                                                 "class": "text-foreground h-10 px-2 text-left align-middle font-medium whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] bg-slate-50"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 247,
                                                                 "width": 216,
                                                                 "height": 40
@@ -2071,7 +2071,7 @@
                                                                 "class": "text-foreground h-10 px-2 text-left align-middle font-medium whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] bg-slate-50"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 247,
                                                                 "width": 122,
                                                                 "height": 40
@@ -2085,7 +2085,7 @@
                                                                 "class": "text-foreground h-10 px-2 text-left align-middle font-medium whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] bg-slate-50"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 247,
                                                                 "width": 93,
                                                                 "height": 40
@@ -2105,7 +2105,7 @@
                                                       "boundingBox": {
                                                         "x": 281,
                                                         "y": 287,
-                                                        "width": 1035,
+                                                        "width": 1013,
                                                         "height": 464
                                                       },
                                                       "children": [
@@ -2118,20 +2118,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 287,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PNW-01445-R2P7P6",
+                                                              "text": "PNW-01459-Z2Q0L4",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 287,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2143,7 +2143,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 287,
                                                                 "width": 250,
                                                                 "height": 46
@@ -2156,7 +2156,7 @@
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 300,
                                                                     "width": 234,
                                                                     "height": 20
@@ -2172,9 +2172,9 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 287,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2186,7 +2186,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 287,
                                                                 "width": 216,
                                                                 "height": 46
@@ -2199,7 +2199,7 @@
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 296,
                                                                     "width": 200,
                                                                     "height": 26
@@ -2215,7 +2215,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 287,
                                                                 "width": 122,
                                                                 "height": 46
@@ -2228,7 +2228,7 @@
                                                                     "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-yellow-50 text-yellow-800 border border-yellow-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 298,
                                                                     "width": 78,
                                                                     "height": 26
@@ -2241,7 +2241,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 302,
                                                                         "width": 16,
                                                                         "height": 16
@@ -2254,7 +2254,7 @@
                                                                             "class": "lucide lucide-pen-line h-4 w-4 text-gray-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 302,
                                                                             "width": 16,
                                                                             "height": 16
@@ -2265,7 +2265,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1101,
                                                                                 "y": 304,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -2281,7 +2281,7 @@
                                                                       "text": "Draft",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 302,
                                                                         "width": 28,
                                                                         "height": 16
@@ -2294,12 +2294,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 287,
                                                                 "width": 93,
                                                                 "height": 46
@@ -2317,20 +2317,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 334,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PNW-01444-Q0N9G8",
+                                                              "text": "PNW-01458-J7Z4C9",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 334,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2342,7 +2342,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 334,
                                                                 "width": 250,
                                                                 "height": 46
@@ -2355,7 +2355,7 @@
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 347,
                                                                     "width": 234,
                                                                     "height": 20
@@ -2371,9 +2371,9 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 334,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2385,7 +2385,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 334,
                                                                 "width": 216,
                                                                 "height": 46
@@ -2398,7 +2398,7 @@
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 342,
                                                                     "width": 200,
                                                                     "height": 26
@@ -2414,7 +2414,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 334,
                                                                 "width": 122,
                                                                 "height": 46
@@ -2427,7 +2427,7 @@
                                                                     "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-blue-50 text-blue-800 border border-blue-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 344,
                                                                     "width": 106,
                                                                     "height": 26
@@ -2440,7 +2440,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 349,
                                                                         "width": 16,
                                                                         "height": 16
@@ -2453,7 +2453,7 @@
                                                                             "class": "lucide lucide-clock h-4 w-4 text-blue-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 349,
                                                                             "width": 16,
                                                                             "height": 16
@@ -2464,7 +2464,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1129,
+                                                                                "x": 1107,
                                                                                 "y": 353,
                                                                                 "width": 3,
                                                                                 "height": 5
@@ -2476,7 +2476,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1101,
                                                                                 "y": 350,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -2492,7 +2492,7 @@
                                                                       "text": "Submitted",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 349,
                                                                         "width": 57,
                                                                         "height": 16
@@ -2505,12 +2505,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 334,
                                                                 "width": 93,
                                                                 "height": 46
@@ -2528,20 +2528,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 380,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PNW-01443-N2H2G5",
+                                                              "text": "PNW-01457-P8B1J7",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 380,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2553,7 +2553,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 380,
                                                                 "width": 250,
                                                                 "height": 46
@@ -2566,7 +2566,7 @@
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 393,
                                                                     "width": 234,
                                                                     "height": 20
@@ -2582,9 +2582,9 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 380,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2596,7 +2596,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 380,
                                                                 "width": 216,
                                                                 "height": 46
@@ -2609,7 +2609,7 @@
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 388,
                                                                     "width": 200,
                                                                     "height": 26
@@ -2625,7 +2625,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 380,
                                                                 "width": 122,
                                                                 "height": 46
@@ -2638,7 +2638,7 @@
                                                                     "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-yellow-50 text-yellow-800 border border-yellow-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 390,
                                                                     "width": 78,
                                                                     "height": 26
@@ -2651,7 +2651,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 395,
                                                                         "width": 16,
                                                                         "height": 16
@@ -2664,7 +2664,7 @@
                                                                             "class": "lucide lucide-pen-line h-4 w-4 text-gray-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 395,
                                                                             "width": 16,
                                                                             "height": 16
@@ -2675,7 +2675,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1101,
                                                                                 "y": 397,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -2691,7 +2691,7 @@
                                                                       "text": "Draft",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 395,
                                                                         "width": 28,
                                                                         "height": 16
@@ -2704,12 +2704,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 380,
                                                                 "width": 93,
                                                                 "height": 46
@@ -2727,20 +2727,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 426,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PNW-01442-C2T5Q5",
+                                                              "text": "PNW-01456-W6Y4L5",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 426,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2752,7 +2752,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 426,
                                                                 "width": 250,
                                                                 "height": 46
@@ -2765,7 +2765,7 @@
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 440,
                                                                     "width": 234,
                                                                     "height": 20
@@ -2781,9 +2781,9 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 426,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2795,7 +2795,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 426,
                                                                 "width": 216,
                                                                 "height": 46
@@ -2808,7 +2808,7 @@
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 435,
                                                                     "width": 200,
                                                                     "height": 26
@@ -2824,7 +2824,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 426,
                                                                 "width": 122,
                                                                 "height": 46
@@ -2834,12 +2834,12 @@
                                                                   "tag": "span",
                                                                   "text": "",
                                                                   "attributes": {
-                                                                    "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-yellow-50 text-yellow-800 border border-yellow-100"
+                                                                    "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-blue-50 text-blue-800 border border-blue-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 437,
-                                                                    "width": 78,
+                                                                    "width": 106,
                                                                     "height": 26
                                                                   },
                                                                   "children": [
@@ -2850,7 +2850,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 442,
                                                                         "width": 16,
                                                                         "height": 16
@@ -2860,10 +2860,10 @@
                                                                           "tag": "svg",
                                                                           "text": "",
                                                                           "attributes": {
-                                                                            "class": "lucide lucide-pen-line h-4 w-4 text-gray-600"
+                                                                            "class": "lucide lucide-clock h-4 w-4 text-blue-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 442,
                                                                             "width": 16,
                                                                             "height": 16
@@ -2874,7 +2874,19 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1107,
+                                                                                "y": 446,
+                                                                                "width": 3,
+                                                                                "height": 5
+                                                                              },
+                                                                              "children": []
+                                                                            },
+                                                                            {
+                                                                              "tag": "circle",
+                                                                              "text": "",
+                                                                              "attributes": {},
+                                                                              "boundingBox": {
+                                                                                "x": 1101,
                                                                                 "y": 443,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -2887,12 +2899,12 @@
                                                                     },
                                                                     {
                                                                       "tag": "span",
-                                                                      "text": "Draft",
+                                                                      "text": "Submitted",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 442,
-                                                                        "width": 28,
+                                                                        "width": 57,
                                                                         "height": 16
                                                                       },
                                                                       "children": []
@@ -2903,12 +2915,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 426,
                                                                 "width": 93,
                                                                 "height": 46
@@ -2926,20 +2938,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 473,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PNW-01441-H2V7F6",
+                                                              "text": "PNW-01455-W8V9G5",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 473,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2951,7 +2963,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 473,
                                                                 "width": 250,
                                                                 "height": 46
@@ -2959,12 +2971,12 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "4TH STREET LASER AND SURGERY CENTER - Patient Needs Waiver",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
                                                                   "attributes": {
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 486,
                                                                     "width": 234,
                                                                     "height": 20
@@ -2975,14 +2987,14 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "4TH STREET LASER AND SURGERY CENTER",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 473,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -2994,7 +3006,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 473,
                                                                 "width": 216,
                                                                 "height": 46
@@ -3007,7 +3019,7 @@
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 481,
                                                                     "width": 200,
                                                                     "height": 26
@@ -3023,7 +3035,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 473,
                                                                 "width": 122,
                                                                 "height": 46
@@ -3036,7 +3048,7 @@
                                                                     "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-yellow-50 text-yellow-800 border border-yellow-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 483,
                                                                     "width": 78,
                                                                     "height": 26
@@ -3049,7 +3061,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 488,
                                                                         "width": 16,
                                                                         "height": 16
@@ -3062,7 +3074,7 @@
                                                                             "class": "lucide lucide-pen-line h-4 w-4 text-gray-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 488,
                                                                             "width": 16,
                                                                             "height": 16
@@ -3073,7 +3085,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1101,
                                                                                 "y": 489,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -3089,7 +3101,7 @@
                                                                       "text": "Draft",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 488,
                                                                         "width": 28,
                                                                         "height": 16
@@ -3102,12 +3114,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 473,
                                                                 "width": 93,
                                                                 "height": 46
@@ -3125,20 +3137,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 519,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PNW-01440-W2B4N0",
+                                                              "text": "PNW-01454-Y0K4P6",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 519,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3150,7 +3162,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 519,
                                                                 "width": 250,
                                                                 "height": 46
@@ -3158,12 +3170,12 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "4TH STREET LASER AND SURGERY CENTER - Patient Needs Waiver",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
                                                                   "attributes": {
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 532,
                                                                     "width": 234,
                                                                     "height": 20
@@ -3174,14 +3186,14 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "4TH STREET LASER AND SURGERY CENTER",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 519,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3193,7 +3205,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 519,
                                                                 "width": 216,
                                                                 "height": 46
@@ -3206,7 +3218,7 @@
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 528,
                                                                     "width": 200,
                                                                     "height": 26
@@ -3222,7 +3234,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 519,
                                                                 "width": 122,
                                                                 "height": 46
@@ -3232,12 +3244,12 @@
                                                                   "tag": "span",
                                                                   "text": "",
                                                                   "attributes": {
-                                                                    "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-yellow-50 text-yellow-800 border border-yellow-100"
+                                                                    "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-blue-50 text-blue-800 border border-blue-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 530,
-                                                                    "width": 78,
+                                                                    "width": 106,
                                                                     "height": 26
                                                                   },
                                                                   "children": [
@@ -3248,7 +3260,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 534,
                                                                         "width": 16,
                                                                         "height": 16
@@ -3258,10 +3270,10 @@
                                                                           "tag": "svg",
                                                                           "text": "",
                                                                           "attributes": {
-                                                                            "class": "lucide lucide-pen-line h-4 w-4 text-gray-600"
+                                                                            "class": "lucide lucide-clock h-4 w-4 text-blue-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 534,
                                                                             "width": 16,
                                                                             "height": 16
@@ -3272,7 +3284,19 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1107,
+                                                                                "y": 538,
+                                                                                "width": 3,
+                                                                                "height": 5
+                                                                              },
+                                                                              "children": []
+                                                                            },
+                                                                            {
+                                                                              "tag": "circle",
+                                                                              "text": "",
+                                                                              "attributes": {},
+                                                                              "boundingBox": {
+                                                                                "x": 1101,
                                                                                 "y": 536,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -3285,12 +3309,12 @@
                                                                     },
                                                                     {
                                                                       "tag": "span",
-                                                                      "text": "Draft",
+                                                                      "text": "Submitted",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 534,
-                                                                        "width": 28,
+                                                                        "width": 57,
                                                                         "height": 16
                                                                       },
                                                                       "children": []
@@ -3301,12 +3325,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 519,
                                                                 "width": 93,
                                                                 "height": 46
@@ -3324,20 +3348,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 566,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PNW-01439-P9G6J9",
+                                                              "text": "PFA-01804-Q6W9Y0",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 566,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3349,7 +3373,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 566,
                                                                 "width": 250,
                                                                 "height": 46
@@ -3357,12 +3381,12 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "4TH STREET LASER AND SURGERY CENTER - Patient Needs Waiver",
+                                                                  "text": "1 & 1 HOSPICE, INC. - Standard Waiver",
                                                                   "attributes": {
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 579,
                                                                     "width": 234,
                                                                     "height": 20
@@ -3373,14 +3397,14 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "4TH STREET LASER AND SURGERY CENTER",
+                                                              "text": "1 & 1 HOSPICE, INC.",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 566,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3392,7 +3416,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 566,
                                                                 "width": 216,
                                                                 "height": 46
@@ -3400,14 +3424,14 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "Patient Needs Waiver (PNW) Request",
+                                                                  "text": "Program Flexibility (PF) Request",
                                                                   "attributes": {
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 574,
-                                                                    "width": 200,
+                                                                    "width": 192,
                                                                     "height": 26
                                                                   },
                                                                   "children": []
@@ -3421,7 +3445,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 566,
                                                                 "width": 122,
                                                                 "height": 46
@@ -3434,7 +3458,7 @@
                                                                     "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-blue-50 text-blue-800 border border-blue-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 576,
                                                                     "width": 106,
                                                                     "height": 26
@@ -3447,7 +3471,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 581,
                                                                         "width": 16,
                                                                         "height": 16
@@ -3460,7 +3484,7 @@
                                                                             "class": "lucide lucide-clock h-4 w-4 text-blue-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 581,
                                                                             "width": 16,
                                                                             "height": 16
@@ -3471,7 +3495,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1129,
+                                                                                "x": 1107,
                                                                                 "y": 585,
                                                                                 "width": 3,
                                                                                 "height": 5
@@ -3483,7 +3507,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1101,
                                                                                 "y": 582,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -3499,7 +3523,7 @@
                                                                       "text": "Submitted",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 581,
                                                                         "width": 57,
                                                                         "height": 16
@@ -3512,12 +3536,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 566,
                                                                 "width": 93,
                                                                 "height": 46
@@ -3535,20 +3559,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 612,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PFA-01788-G3B9H9",
+                                                              "text": "PNW-01453-V6P4J6",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 612,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3560,7 +3584,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 612,
                                                                 "width": 250,
                                                                 "height": 46
@@ -3568,12 +3592,12 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "1 & 1 HOSPICE, INC. - Standard Waiver",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
                                                                   "attributes": {
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 625,
                                                                     "width": 234,
                                                                     "height": 20
@@ -3584,14 +3608,14 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "1 & 1 HOSPICE, INC.",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 612,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3603,7 +3627,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 612,
                                                                 "width": 216,
                                                                 "height": 46
@@ -3611,14 +3635,14 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "Program Flexibility (PF) Request",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
                                                                   "attributes": {
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 620,
-                                                                    "width": 192,
+                                                                    "width": 200,
                                                                     "height": 26
                                                                   },
                                                                   "children": []
@@ -3632,7 +3656,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 612,
                                                                 "width": 122,
                                                                 "height": 46
@@ -3645,7 +3669,7 @@
                                                                     "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-blue-50 text-blue-800 border border-blue-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 622,
                                                                     "width": 106,
                                                                     "height": 26
@@ -3658,7 +3682,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 627,
                                                                         "width": 16,
                                                                         "height": 16
@@ -3671,7 +3695,7 @@
                                                                             "class": "lucide lucide-clock h-4 w-4 text-blue-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 627,
                                                                             "width": 16,
                                                                             "height": 16
@@ -3682,7 +3706,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1129,
+                                                                                "x": 1107,
                                                                                 "y": 631,
                                                                                 "width": 3,
                                                                                 "height": 5
@@ -3694,7 +3718,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1101,
                                                                                 "y": 629,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -3710,7 +3734,7 @@
                                                                       "text": "Submitted",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 627,
                                                                         "width": 57,
                                                                         "height": 16
@@ -3723,12 +3747,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 612,
                                                                 "width": 93,
                                                                 "height": 46
@@ -3746,20 +3770,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 658,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PFA-01787-D4H3R4",
+                                                              "text": "PNW-01452-C1Z1P0",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 658,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3771,7 +3795,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 658,
                                                                 "width": 250,
                                                                 "height": 46
@@ -3779,12 +3803,12 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "360 HOME HEALTH AGENCY - Standard Waiver",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
                                                                   "attributes": {
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 672,
                                                                     "width": 234,
                                                                     "height": 20
@@ -3795,14 +3819,14 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "360 HOME HEALTH AGENCY",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 658,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3814,7 +3838,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 658,
                                                                 "width": 216,
                                                                 "height": 46
@@ -3822,14 +3846,14 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "Program Flexibility (PF) Request",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
                                                                   "attributes": {
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 667,
-                                                                    "width": 192,
+                                                                    "width": 200,
                                                                     "height": 26
                                                                   },
                                                                   "children": []
@@ -3843,7 +3867,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 658,
                                                                 "width": 122,
                                                                 "height": 46
@@ -3853,12 +3877,12 @@
                                                                   "tag": "span",
                                                                   "text": "",
                                                                   "attributes": {
-                                                                    "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-blue-50 text-blue-800 border border-blue-100"
+                                                                    "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-yellow-50 text-yellow-800 border border-yellow-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 669,
-                                                                    "width": 106,
+                                                                    "width": 78,
                                                                     "height": 26
                                                                   },
                                                                   "children": [
@@ -3869,7 +3893,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 674,
                                                                         "width": 16,
                                                                         "height": 16
@@ -3879,10 +3903,10 @@
                                                                           "tag": "svg",
                                                                           "text": "",
                                                                           "attributes": {
-                                                                            "class": "lucide lucide-clock h-4 w-4 text-blue-600"
+                                                                            "class": "lucide lucide-pen-line h-4 w-4 text-gray-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 674,
                                                                             "width": 16,
                                                                             "height": 16
@@ -3893,19 +3917,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1129,
-                                                                                "y": 678,
-                                                                                "width": 3,
-                                                                                "height": 5
-                                                                              },
-                                                                              "children": []
-                                                                            },
-                                                                            {
-                                                                              "tag": "circle",
-                                                                              "text": "",
-                                                                              "attributes": {},
-                                                                              "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1101,
                                                                                 "y": 675,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -3918,12 +3930,12 @@
                                                                     },
                                                                     {
                                                                       "tag": "span",
-                                                                      "text": "Submitted",
+                                                                      "text": "Draft",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 674,
-                                                                        "width": 57,
+                                                                        "width": 28,
                                                                         "height": 16
                                                                       },
                                                                       "children": []
@@ -3934,12 +3946,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 658,
                                                                 "width": 93,
                                                                 "height": 46
@@ -3957,20 +3969,20 @@
                                                           "boundingBox": {
                                                             "x": 281,
                                                             "y": 705,
-                                                            "width": 1035,
+                                                            "width": 1013,
                                                             "height": 46
                                                           },
                                                           "children": [
                                                             {
                                                               "tag": "td",
-                                                              "text": "PFA-01786-D1V7S2",
+                                                              "text": "PNW-01451-M3Z8H8",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] font-medium text-sm max-w-[180px] truncate"
                                                               },
                                                               "boundingBox": {
                                                                 "x": 281,
                                                                 "y": 705,
-                                                                "width": 153,
+                                                                "width": 152,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -3982,7 +3994,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] max-w-[250px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 434,
+                                                                "x": 433,
                                                                 "y": 705,
                                                                 "width": 250,
                                                                 "height": 46
@@ -3990,12 +4002,12 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "1 & 1 HOSPICE, INC. - Standard Waiver",
+                                                                  "text": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver",
                                                                   "attributes": {
                                                                     "class": "text-sm underline hover:text-sky-600 truncate block"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 442,
+                                                                    "x": 441,
                                                                     "y": 718,
                                                                     "width": 234,
                                                                     "height": 20
@@ -4006,14 +4018,14 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "1 & 1 HOSPICE, INC.",
+                                                              "text": "1 & 1 HOME HEALTH, INC.",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm max-w-[200px] truncate"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 684,
+                                                                "x": 683,
                                                                 "y": 705,
-                                                                "width": 200,
+                                                                "width": 180,
                                                                 "height": 46
                                                               },
                                                               "children": []
@@ -4025,7 +4037,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 884,
+                                                                "x": 863,
                                                                 "y": 705,
                                                                 "width": 216,
                                                                 "height": 46
@@ -4033,14 +4045,14 @@
                                                               "children": [
                                                                 {
                                                                   "tag": "span",
-                                                                  "text": "Program Flexibility (PF) Request",
+                                                                  "text": "Patient Needs Waiver (PNW) Request",
                                                                   "attributes": {
                                                                     "class": "inline-block text-xs px-3 py-1 rounded-full border bg-gray-50 text-gray-700 max-w-[200px] truncate"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 892,
+                                                                    "x": 871,
                                                                     "y": 713,
-                                                                    "width": 192,
+                                                                    "width": 200,
                                                                     "height": 26
                                                                   },
                                                                   "children": []
@@ -4054,7 +4066,7 @@
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px]"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1100,
+                                                                "x": 1079,
                                                                 "y": 705,
                                                                 "width": 122,
                                                                 "height": 46
@@ -4064,12 +4076,12 @@
                                                                   "tag": "span",
                                                                   "text": "",
                                                                   "attributes": {
-                                                                    "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-blue-50 text-blue-800 border border-blue-100"
+                                                                    "class": "justify-center w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&]:hover:bg-primary/90 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-yellow-50 text-yellow-800 border border-yellow-100"
                                                                   },
                                                                   "boundingBox": {
-                                                                    "x": 1108,
+                                                                    "x": 1087,
                                                                     "y": 715,
-                                                                    "width": 106,
+                                                                    "width": 78,
                                                                     "height": 26
                                                                   },
                                                                   "children": [
@@ -4080,7 +4092,7 @@
                                                                         "class": "flex items-center justify-center h-4 w-4"
                                                                       },
                                                                       "boundingBox": {
-                                                                        "x": 1121,
+                                                                        "x": 1099,
                                                                         "y": 720,
                                                                         "width": 16,
                                                                         "height": 16
@@ -4090,10 +4102,10 @@
                                                                           "tag": "svg",
                                                                           "text": "",
                                                                           "attributes": {
-                                                                            "class": "lucide lucide-clock h-4 w-4 text-blue-600"
+                                                                            "class": "lucide lucide-pen-line h-4 w-4 text-gray-600"
                                                                           },
                                                                           "boundingBox": {
-                                                                            "x": 1121,
+                                                                            "x": 1099,
                                                                             "y": 720,
                                                                             "width": 16,
                                                                             "height": 16
@@ -4104,19 +4116,7 @@
                                                                               "text": "",
                                                                               "attributes": {},
                                                                               "boundingBox": {
-                                                                                "x": 1129,
-                                                                                "y": 724,
-                                                                                "width": 3,
-                                                                                "height": 5
-                                                                              },
-                                                                              "children": []
-                                                                            },
-                                                                            {
-                                                                              "tag": "circle",
-                                                                              "text": "",
-                                                                              "attributes": {},
-                                                                              "boundingBox": {
-                                                                                "x": 1122,
+                                                                                "x": 1101,
                                                                                 "y": 721,
                                                                                 "width": 13,
                                                                                 "height": 13
@@ -4129,12 +4129,12 @@
                                                                     },
                                                                     {
                                                                       "tag": "span",
-                                                                      "text": "Submitted",
+                                                                      "text": "Draft",
                                                                       "attributes": {},
                                                                       "boundingBox": {
-                                                                        "x": 1145,
+                                                                        "x": 1123,
                                                                         "y": 720,
-                                                                        "width": 57,
+                                                                        "width": 28,
                                                                         "height": 16
                                                                       },
                                                                       "children": []
@@ -4145,12 +4145,12 @@
                                                             },
                                                             {
                                                               "tag": "td",
-                                                              "text": "Jun 19, 2026",
+                                                              "text": "Jun 20, 2026",
                                                               "attributes": {
                                                                 "class": "p-2 align-middle whitespace-nowrap [&:has([role=checkbox])]:pr-0 [&>[role=checkbox]]:translate-y-[2px] text-sm"
                                                               },
                                                               "boundingBox": {
-                                                                "x": 1222,
+                                                                "x": 1201,
                                                                 "y": 705,
                                                                 "width": 93,
                                                                 "height": 46
@@ -4277,7 +4277,7 @@
                                                     },
                                                     {
                                                       "tag": "div",
-                                                      "text": "Page 1 of 59",
+                                                      "text": "Page 1 of 60",
                                                       "attributes": {
                                                         "class": "text-sm font-medium"
                                                       },
