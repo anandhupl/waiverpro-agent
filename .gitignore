@@ -1,5 +1,15 @@
+# Security (CRITICAL)
 .env
 data/auth.json
+
+# Local Caches & Compiled Python
 __pycache__/
-*.png
+*.pyc
 .pytest_cache/
+
+# Massive Local Data (Keep out of Git)
+data/vector_cache.json
+
+# Ignore random root PNGs, BUT EXPLICITLY ALLOW your evidence folder!
+*.png
+!data/screenshots/*.png
